@@ -1,0 +1,62 @@
+[
+  {
+    "product_id": "pro2",
+    "url": "https://static.smartisanos.cn/common/pr/original-img/jianguopro2/black/1.png",
+    "source_page": "https://www.smartisan.com/pr/#/pictures",
+    "rights": "third-party-copyright; permission-unverified",
+    "acquired_at": "2026-11-04",
+    "status": "failed",
+    "error": "HTTP 404; alternative official image saved"
+  },
+  {
+    "product_id": "pro2",
+    "url": "https://static.smartisanos.cn/common/pr/original-img/jianguopro2/black/2.png",
+    "source_page": "https://www.smartisan.com/pr/#/pictures",
+    "rights": "third-party-copyright; permission-unverified",
+    "acquired_at": "2026-11-04",
+    "status": "failed",
+    "error": "HTTP 404; alternative official image saved"
+  },
+  {
+    "product_id": "pro2",
+    "url": "https://static.smartisanos.cn/common/pr/original-img/jianguopro2/black/3.png",
+    "source_page": "https://www.smartisan.com/pr/#/pictures",
+    "rights": "third-party-copyright; permission-unverified",
+    "acquired_at": "2026-11-04",
+    "status": "failed",
+    "error": "HTTP 404; alternative official image saved"
+  },
+  {
+    "product_id": "pro2",
+    "url": "https://static.smartisanos.cn/common/pr/original-img/jianguopro2/black/4.png",
+    "source_page": "https://www.smartisan.com/pr/#/pictures",
+    "rights": "third-party-copyright; permission-unverified",
+    "acquired_at": "2026-11-04",
+    "status": "failed",
+    "error": "HTTP 404; alternative official image saved"
+  },
+  {
+    "product_id": "pro2-gold",
+    "url": "https://static.smartisanos.cn/common/pr/original-img/jianguopro2/gold/1.png",
+    "source_page": "https://www.smartisan.com/pr/#/pictures",
+    "rights": "third-party-copyright; permission-unverified",
+    "acquired_at": "2026-11-04",
+    "status": "failed",
+    "error": "HTTP 404; alternative official image saved"
+  },
+  {
+    "product_id": "pro2-red",
+    "url": "https://static.smartisanos.cn/common/pr/original-img/jianguopro2/red/1.png",
+    "source_page": "https://www.smartisan.com/pr/#/pictures",
+    "rights": "third-party-copyright; permission-unverified",
+    "acquired_at": "2026-11-04",
+    "status": "failed",
+    "error": "HTTP 404; alternative official image saved"
+  },
+  {
+    "product_id": "buds",
+    "url": "https://52audio-images.oss-cn-shenzhen.aliyuncs.com/wp-content/uploads/2020/10/005H7YyZgy1gjwqrgeudsj31uw0sojzs-1024x439.jpg",
+    "status": "failed",
+    "error": "HTTP 403; original publisher public URL used instead"
+  }
+]

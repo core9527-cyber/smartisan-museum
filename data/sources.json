@@ -1,0 +1,320 @@
+[
+  {
+    "id": "source-1",
+    "url": "https://shopapi.smartisan.com/v1/cms/second_nav",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-2",
+    "url": "https://sound.zol.com.cn/550/5509901.html",
+    "accessed_at": "2026-11-04",
+    "type": "contemporary-report"
+  },
+  {
+    "id": "source-3",
+    "url": "https://www.3elife.net/Art/test/202006/27/52229.html",
+    "accessed_at": "2026-11-04",
+    "type": "contemporary-report"
+  },
+  {
+    "id": "source-4",
+    "url": "https://www.52audio.com/archives/59757.html",
+    "accessed_at": "2026-11-04",
+    "type": "contemporary-report"
+  },
+  {
+    "id": "source-5",
+    "url": "https://www.ithome.com/0/514/719.htm",
+    "accessed_at": "2026-11-04",
+    "type": "contemporary-report"
+  },
+  {
+    "id": "source-6",
+    "url": "https://www.smartisan.com/item/1000530",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-7",
+    "url": "https://www.smartisan.com/item/1000610",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-8",
+    "url": "https://www.smartisan.com/item/1000611",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-9",
+    "url": "https://www.smartisan.com/item/1000613",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-10",
+    "url": "https://www.smartisan.com/item/1000615",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-11",
+    "url": "https://www.smartisan.com/item/1000637",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-12",
+    "url": "https://www.smartisan.com/item/1001628",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-13",
+    "url": "https://www.smartisan.com/item/1001853",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-14",
+    "url": "https://www.smartisan.com/item/1001854",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-15",
+    "url": "https://www.smartisan.com/item/1001855",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-16",
+    "url": "https://www.smartisan.com/item/1001856",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-17",
+    "url": "https://www.smartisan.com/item/1001858",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-18",
+    "url": "https://www.smartisan.com/item/1001859",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-19",
+    "url": "https://www.smartisan.com/item/1001860",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-20",
+    "url": "https://www.smartisan.com/item/1001862",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-21",
+    "url": "https://www.smartisan.com/item/1001868",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-22",
+    "url": "https://www.smartisan.com/item/1001871",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-23",
+    "url": "https://www.smartisan.com/item/1001874",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-24",
+    "url": "https://www.smartisan.com/item/1001877",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-25",
+    "url": "https://www.smartisan.com/item/1002321",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-26",
+    "url": "https://www.smartisan.com/jianguo/",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-27",
+    "url": "https://www.smartisan.com/jianguopro/",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-28",
+    "url": "https://www.smartisan.com/jianguopro2/",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-29",
+    "url": "https://www.smartisan.com/jianguopro2s/",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-30",
+    "url": "https://www.smartisan.com/jianguopro3/",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-31",
+    "url": "https://www.smartisan.com/m1/",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-32",
+    "url": "https://www.smartisan.com/pr/#/pictures",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-33",
+    "url": "https://www.smartisan.com/r1/",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-34",
+    "url": "https://www.smartisan.com/r2/",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-35",
+    "url": "https://www.smartisan.com/t1/",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-36",
+    "url": "https://www.smartisan.com/t2/",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-37",
+    "url": "https://www.smartisan.com/u3/",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-38",
+    "url": "https://www.smartisan.com/pr/data/year/2014/20140520.json",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-39",
+    "url": "https://www.smartisan.com/pr/data/year/2015/2015082501.json",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-40",
+    "url": "https://www.smartisan.com/pr/data/year/2015/20151019.json",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-41",
+    "url": "https://www.smartisan.com/pr/data/year/2015/20151229.json",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-42",
+    "url": "https://www.smartisan.com/pr/data/year/2016/20161018.json",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-43",
+    "url": "https://tech.sina.com.cn/t/2016-10-20/doc-ifxwzuci9170147.shtml",
+    "accessed_at": "2026-11-04",
+    "type": "contemporary-report"
+  },
+  {
+    "id": "source-44",
+    "url": "https://www.smartisan.com/pr/data/year/2017/20170509.json",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-45",
+    "url": "https://www.smartisan.com/pr/data/year/2017/20171107.json",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-46",
+    "url": "https://www.smartisan.com/pr/data/year/2018/20180409.json",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-47",
+    "url": "https://www.smartisan.com/pr/data/year/2018/20180515.json",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-48",
+    "url": "https://www.smartisan.com/pr/data/year/2018/20180820.json",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-49",
+    "url": "http://tech.china.com.cn/roll/20191101/360449.shtml",
+    "accessed_at": "2026-11-04",
+    "type": "contemporary-report"
+  },
+  {
+    "id": "source-50",
+    "url": "https://tech.ifeng.com/c/7rEDNopPXfc",
+    "accessed_at": "2026-11-04",
+    "type": "contemporary-report"
+  },
+  {
+    "id": "source-51",
+    "url": "https://finance.sina.com.cn/tech/2020-10-20/doc-iiznctkc6687691.shtml",
+    "accessed_at": "2026-11-04",
+    "type": "contemporary-report"
+  },
+  {
+    "id": "source-52",
+    "url": "https://shopapi.smartisan.com/product/spus?ids=1002321,1000610,1001871,1001859,1001877,1001862,1000637",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  },
+  {
+    "id": "source-53",
+    "url": "https://www.smartisan.com/pr/data/year/2018/20181106.json",
+    "accessed_at": "2026-11-04",
+    "type": "official"
+  }
+]

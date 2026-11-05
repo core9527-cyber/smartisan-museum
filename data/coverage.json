@@ -1,0 +1,12 @@
+{
+  "snapshot": "2026-11-04",
+  "catalog_records": 49,
+  "main_phone_models": 12,
+  "all_records_have_local_images": true,
+  "complete_historical_sku_inventory": false,
+  "complete_historical_accessories_inventory": false,
+  "true_3d_models": 0,
+  "all_historical_claims_verified": false,
+  "third_party_media_redistribution_authorized": false,
+  "scope_document": "docs/04-资料范围与来源.md"
+}

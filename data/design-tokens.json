@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "colors": {
+    "canvas": "#ECE9E4",
+    "card": "#FCFBF9",
+    "ink": "#343230",
+    "secondary": "#77716A",
+    "red": "#A83B36",
+    "dark": "#242322"
+  },
+  "spacing_unit": 8,
+  "type_scale_px": [
+    48,
+    36,
+    24,
+    18,
+    16,
+    13
+  ],
+  "radius_px": [
+    7,
+    11,
+    14
+  ],
+  "motion_ms": {
+    "press": [
+      80,
+      120
+    ],
+    "feedback": [
+      180,
+      240
+    ],
+    "ambient_transition": [
+      600,
+      900
+    ]
+  },
+  "fonts": {
+    "local_preference": "Smartisan T 黑",
+    "bundled": "Noto Sans SC",
+    "bundled_license": "SIL OFL 1.1"
+  }
+}

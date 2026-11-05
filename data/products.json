@@ -1,0 +1,3626 @@
+[
+  {
+    "id": "t1",
+    "name": "Smartisan T1",
+    "category": "手机",
+    "era": "锤子科技阶段",
+    "release_date": "2014-05-20",
+    "date_precision": "day",
+    "date_status": "已核对发布资料",
+    "specs": {
+      "处理器": "骁龙 801",
+      "屏幕": "4.95 英寸 LCD",
+      "电池典型容量": "2570 mAh"
+    },
+    "features": "双面玻璃、三枚实体键、左右对称按键",
+    "design_reading": "从按键与对称秩序理解第一代 Smartisan 的审美选择。",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [
+      "黑色",
+      "白色",
+      "3G／4G"
+    ],
+    "images": [
+      "assets/display/7fee2af4d7825190.webp",
+      "assets/display/2fa0c0165082ce40.webp",
+      "assets/display/f895912a07b4c32f.webp",
+      "assets/display/c66b5da91f301938.webp",
+      "assets/display/04eba632530af24a.webp",
+      "assets/display/a4187bbf61d784e2.webp"
+    ],
+    "image_status": "官方图片；非三维模型",
+    "sources": [
+      "https://www.smartisan.com/t1/",
+      "https://www.smartisan.com/pr/#/pictures",
+      "https://www.smartisan.com/pr/data/year/2014/20140520.json"
+    ],
+    "verification": "发布日期、价格与所列简洁参数已对照发布资料；电池容量仍需补充可引用规格页",
+    "related_accessories": [
+      "s1000"
+    ],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "launch_options": [
+      {
+        "configuration": "3G · 2GB + 16GB",
+        "price_cny": 3000,
+        "currency": "CNY",
+        "source": "https://www.smartisan.com/pr/data/year/2014/20140520.json"
+      },
+      {
+        "configuration": "3G · 2GB + 32GB",
+        "price_cny": 3150,
+        "currency": "CNY",
+        "source": "https://www.smartisan.com/pr/data/year/2014/20140520.json"
+      },
+      {
+        "configuration": "4G · 2GB + 16GB（发布会公布）",
+        "price_cny": 3500,
+        "currency": "CNY",
+        "source": "https://www.smartisan.com/pr/data/year/2014/20140520.json"
+      },
+      {
+        "configuration": "4G · 2GB + 32GB（发布会公布）",
+        "price_cny": 3650,
+        "currency": "CNY",
+        "source": "https://www.smartisan.com/pr/data/year/2014/20140520.json"
+      }
+    ],
+    "launch_price_note": "2014-05-20 发布会公布价格；4G 版另于 2014-10-18 正式上市，32GB 当时定价 ¥3,500，见后续版本资料。",
+    "collection_group": "手机",
+    "release_date_source": "https://www.smartisan.com/pr/data/year/2014/20140520.json",
+    "design_headline": "让操作，也参与正面的秩序。",
+    "design_highlights": [
+      {
+        "title": "三枚实体键",
+        "text": "把返回、主页与菜单做成触手可及的物理按键。"
+      },
+      {
+        "title": "双面玻璃",
+        "text": "用前后玻璃建立完整、克制的物件感。"
+      },
+      {
+        "title": "对称侧键",
+        "text": "左右两侧的按键回应对称秩序与不同握持习惯。"
+      },
+      {
+        "title": "九宫格",
+        "text": "有边界的图标格，把内容安排得井然有序。"
+      },
+      {
+        "title": "4.95 英寸",
+        "text": "在单手握持与内容显示之间寻找尺度。"
+      },
+      {
+        "title": "熄屏快拍",
+        "text": "双侧按键配合，让拍摄动作更直接。"
+      }
+    ],
+    "display_accent": "#b96f63",
+    "spec_sources": {
+      "处理器": [
+        "https://www.smartisan.com/pr/data/year/2014/20140520.json"
+      ],
+      "屏幕": [
+        "https://www.smartisan.com/pr/data/year/2014/20140520.json"
+      ]
+    },
+    "spec_notes": {
+      "电池典型容量": "待补证：本轮未取得可引用的官方规格页"
+    }
+  },
+  {
+    "id": "u1",
+    "name": "坚果手机 U1",
+    "category": "手机",
+    "era": "锤子科技阶段",
+    "release_date": "2015-08-25",
+    "date_precision": "day",
+    "date_status": "已核对发布资料",
+    "specs": {
+      "处理器": "骁龙 615",
+      "屏幕": "5.5 英寸 LCD",
+      "电池典型容量": "2900 mAh"
+    },
+    "features": "多彩可更换背壳、低门槛的设计表达",
+    "design_reading": "把换背壳做成日常参与设计的方式，而不只是选择机身颜色。",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [
+      "标准版",
+      "文艺青年版",
+      "黑色版",
+      "电信／全网通等网络版本"
+    ],
+    "images": [
+      "assets/display/3adb83354734494e.webp",
+      "assets/display/bed401e672390564.webp",
+      "assets/display/9d41c22e5b4bb73a.webp",
+      "assets/display/1a9d0690bc56593f.webp",
+      "assets/display/bf800516b08a7174.webp",
+      "assets/display/90fb6708afd422ad.webp",
+      "assets/display/1058f06a4a9528c6.webp"
+    ],
+    "image_status": "官方图片；非三维模型",
+    "sources": [
+      "https://www.smartisan.com/jianguo/",
+      "https://www.smartisan.com/pr/#/pictures",
+      "https://www.smartisan.com/pr/data/year/2015/2015082501.json"
+    ],
+    "verification": "发布日期、价格与所列简洁参数已对照发布资料；电池容量仍需补充可引用规格页",
+    "related_accessories": [
+      "u1-backs",
+      "u1-cases",
+      "u1-charger",
+      "u1-hub",
+      "u1-package"
+    ],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "launch_options": [
+      {
+        "configuration": "2GB + 16GB",
+        "price_cny": 899,
+        "currency": "CNY",
+        "source": "https://www.smartisan.com/pr/data/year/2015/2015082501.json"
+      },
+      {
+        "configuration": "2GB + 32GB",
+        "price_cny": 999,
+        "currency": "CNY",
+        "source": "https://www.smartisan.com/pr/data/year/2015/2015082501.json"
+      }
+    ],
+    "launch_price_note": "",
+    "collection_group": "手机",
+    "release_date_source": "https://www.smartisan.com/pr/data/year/2015/2015082501.json",
+    "design_headline": "把颜色，交到使用者手里。",
+    "design_highlights": [
+      {
+        "title": "可更换背壳",
+        "text": "选择喜欢的颜色，也可以亲手换一种心情。"
+      },
+      {
+        "title": "七彩后盖",
+        "text": "红、橙、黄、绿、青、蓝、紫，组成鲜明的产品表情。"
+      },
+      {
+        "title": "5.5 英寸",
+        "text": "让更大的内容画面走进千元机。"
+      },
+      {
+        "title": "Smartisan OS",
+        "text": "将熟悉的秩序与操作细节带到新产品线。"
+      },
+      {
+        "title": "年轻的表达",
+        "text": "色彩成为区别于 T 系列玻璃气质的另一种语言。"
+      }
+    ],
+    "display_accent": "#b96f63",
+    "spec_sources": {
+      "处理器": [
+        "https://www.smartisan.com/pr/data/year/2015/2015082501.json"
+      ],
+      "屏幕": [
+        "https://www.smartisan.com/pr/data/year/2015/2015082501.json"
+      ]
+    },
+    "spec_notes": {
+      "电池典型容量": "待补证：本轮未取得可引用的官方规格页"
+    }
+  },
+  {
+    "id": "u1-indie",
+    "name": "坚果手机文艺青年版",
+    "category": "特别版本",
+    "era": "锤子科技阶段",
+    "release_date": "2015-10-19",
+    "date_precision": "unknown",
+    "date_status": "已核对发布资料",
+    "specs": {
+      "处理器": "骁龙 615",
+      "运行内存 / 存储": "2GB / 32GB",
+      "屏幕分辨率": "1920 × 1080",
+      "后置 / 前置摄像头": "1300 万 / 500 万像素"
+    },
+    "features": "U1 的文化与配色支线，非新增一代手机",
+    "design_reading": "通过低饱和配色、命名和包装，把手机作为日常文化物件来呈现。",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [],
+    "images": [
+      "assets/display/fda7d58d39f753d4.webp",
+      "assets/display/f338311d760a3a90.webp",
+      "assets/display/ee53652ca0000dca.webp",
+      "assets/display/f18f52c50c78fb4e.webp",
+      "assets/display/2af8ac24f71963e5.webp",
+      "assets/display/8d58c8719b1d82bc.webp"
+    ],
+    "image_status": "官方媒体中心图片",
+    "sources": [
+      "https://www.smartisan.com/pr/#/pictures",
+      "https://www.smartisan.com/pr/data/year/2015/20151019.json"
+    ],
+    "verification": "发布日期、发布价格与简洁参数已对照发布资料；资料冲突另见字段备注",
+    "related_accessories": [],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "launch_options": [
+      {
+        "configuration": "2GB + 32GB · 文艺青年版",
+        "price_cny": 999,
+        "currency": "CNY",
+        "source": "https://www.smartisan.com/pr/data/year/2015/20151019.json"
+      }
+    ],
+    "launch_price_note": "",
+    "collection_group": "手机",
+    "release_date_source": "https://www.smartisan.com/pr/data/year/2015/20151019.json",
+    "design_headline": "让手机，也有自己的色彩性格。",
+    "design_highlights": [
+      {
+        "title": "文艺青年版",
+        "text": "以独立的配色与包装形成 U1 的特别支线。"
+      },
+      {
+        "title": "低饱和色彩",
+        "text": "把醒目的颜色收敛为温和、耐看的日常物件。"
+      },
+      {
+        "title": "可更换背壳",
+        "text": "延续 U1 可以亲手改变外观的设计。"
+      },
+      {
+        "title": "八款配色",
+        "text": "在同一机身结构上展开八种色彩表达。"
+      },
+      {
+        "title": "专属包装",
+        "text": "从打开盒子的那一刻开始，保持一致的视觉气质。"
+      }
+    ],
+    "display_accent": "#b96f63",
+    "spec_sources": {
+      "处理器": [
+        "https://www.smartisan.com/pr/data/year/2015/20151019.json"
+      ],
+      "运行内存 / 存储": [
+        "https://www.smartisan.com/pr/data/year/2015/20151019.json"
+      ],
+      "屏幕分辨率": [
+        "https://www.smartisan.com/pr/data/year/2015/20151019.json"
+      ],
+      "后置 / 前置摄像头": [
+        "https://www.smartisan.com/pr/data/year/2015/20151019.json"
+      ]
+    }
+  },
+  {
+    "id": "t2",
+    "name": "Smartisan T2",
+    "category": "手机",
+    "era": "锤子科技阶段",
+    "release_date": "2015-12-29",
+    "date_precision": "day",
+    "date_status": "已核对发布资料",
+    "specs": {
+      "处理器": "骁龙 808",
+      "屏幕": "4.95 英寸 LCD",
+      "电池典型容量": "2670 mAh"
+    },
+    "features": "三实体键、金属中框与隐藏式 SIM 卡托",
+    "design_reading": "通过整洁连续的外框，让结构细节退到视觉之后。",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [
+      "黑色",
+      "16GB／32GB"
+    ],
+    "images": [
+      "assets/display/f702fdd59e4ddd98.webp",
+      "assets/display/68bb9c4d9db1e6c8.webp",
+      "assets/display/8220c08461f74556.webp",
+      "assets/display/1101d6898cd1d8c8.webp",
+      "assets/display/8272615d765d1ab5.webp",
+      "assets/display/b2ee149404f5c031.webp"
+    ],
+    "image_status": "官方图片；非三维模型",
+    "sources": [
+      "https://www.smartisan.com/t2/",
+      "https://www.smartisan.com/pr/#/pictures",
+      "https://www.smartisan.com/pr/data/year/2015/20151229.json"
+    ],
+    "verification": "发布日期、价格与所列简洁参数已对照发布资料；电池容量仍需补充可引用规格页",
+    "related_accessories": [
+      "s1000"
+    ],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "launch_options": [
+      {
+        "configuration": "3GB + 16GB",
+        "price_cny": 2499,
+        "currency": "CNY",
+        "source": "https://www.smartisan.com/pr/data/year/2015/20151229.json"
+      },
+      {
+        "configuration": "3GB + 32GB",
+        "price_cny": 2599,
+        "currency": "CNY",
+        "source": "https://www.smartisan.com/pr/data/year/2015/20151229.json"
+      }
+    ],
+    "launch_price_note": "",
+    "collection_group": "手机",
+    "release_date_source": "https://www.smartisan.com/pr/data/year/2015/20151229.json",
+    "design_headline": "把复杂的结构，藏在完整的轮廓里。",
+    "design_highlights": [
+      {
+        "title": "无断点金属中框",
+        "text": "连续的边框减少视觉中断。"
+      },
+      {
+        "title": "隐藏式 SIM 卡托",
+        "text": "把卡托与侧面按键结合，保持侧边整洁。"
+      },
+      {
+        "title": "双面 2.5D 玻璃",
+        "text": "微曲的边缘连接玻璃触感与机身轮廓。"
+      },
+      {
+        "title": "三枚实体键",
+        "text": "保留 T 系列独特的正面操作秩序。"
+      },
+      {
+        "title": "对称侧键",
+        "text": "让左右边缘在视觉上相互呼应。"
+      },
+      {
+        "title": "4.95 英寸",
+        "text": "延续 T 系列紧凑而熟悉的比例。"
+      }
+    ],
+    "display_accent": "#b96f63",
+    "spec_sources": {
+      "处理器": [
+        "https://www.smartisan.com/pr/data/year/2015/20151229.json"
+      ],
+      "屏幕": [
+        "https://www.smartisan.com/pr/data/year/2015/20151229.json"
+      ]
+    },
+    "spec_notes": {
+      "电池典型容量": "待补证：本轮未取得可引用的官方规格页"
+    }
+  },
+  {
+    "id": "m1",
+    "name": "Smartisan M1",
+    "category": "手机",
+    "era": "锤子科技阶段",
+    "release_date": "2016-10-18",
+    "date_precision": "day",
+    "date_status": "已核对发布资料",
+    "specs": {
+      "处理器": "骁龙 821",
+      "屏幕": "5.15 英寸 LCD",
+      "电池典型容量": "3050 mAh"
+    },
+    "features": "圆形指纹键、性能升级、一步与大爆炸时代",
+    "design_reading": "记录外观、性能与实用效率之间的取舍；不把所有变化解释为一致的美学胜利。",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [
+      "白·哑光铝合金",
+      "咖啡金·皮革"
+    ],
+    "images": [
+      "assets/display/1ce967395f519733.webp",
+      "assets/display/4e6aba35d5b5b064.webp",
+      "assets/display/40d2deebe22d581c.webp",
+      "assets/display/507ef3c62b0e2d47.webp",
+      "assets/display/25d1e5194ea2bed1.webp",
+      "assets/display/6c11be61662ba553.webp",
+      "assets/display/4cbe1a804ce06fd1.webp"
+    ],
+    "image_status": "官方图片；非三维模型",
+    "sources": [
+      "https://www.smartisan.com/m1/",
+      "https://www.smartisan.com/pr/#/pictures",
+      "https://www.smartisan.com/pr/data/year/2016/20161018.json"
+    ],
+    "verification": "发布日期、发布价格与简洁参数已对照发布资料；资料冲突另见字段备注",
+    "related_accessories": [
+      "m1-package",
+      "s1000"
+    ],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "launch_options": [
+      {
+        "configuration": "4GB + 32GB · 全网通",
+        "price_cny": 2499,
+        "currency": "CNY",
+        "source": "https://www.smartisan.com/pr/data/year/2016/20161018.json"
+      }
+    ],
+    "launch_price_note": "",
+    "collection_group": "手机",
+    "release_date_source": "https://www.smartisan.com/pr/data/year/2016/20161018.json",
+    "design_headline": "让效率，成为触手可及的体验。",
+    "design_highlights": [
+      {
+        "title": "一步与大爆炸",
+        "text": "把跨应用传递与文字处理放到系统层面。"
+      },
+      {
+        "title": "正面指纹键",
+        "text": "用一枚圆形按键承接解锁与日常操作。"
+      },
+      {
+        "title": "骁龙 821",
+        "text": "这一代把旗舰性能放到更重要的位置。"
+      },
+      {
+        "title": "5.15 英寸",
+        "text": "在 M 系列里保留更紧凑的机身选择。"
+      },
+      {
+        "title": "24W 快充",
+        "text": "让补充电量也成为效率体验的一部分。"
+      },
+      {
+        "title": "对称侧键",
+        "text": "在新的正面布局下，延续熟悉的侧边秩序。"
+      }
+    ],
+    "display_accent": "#b99a76",
+    "spec_sources": {
+      "处理器": [
+        "https://www.smartisan.com/pr/data/year/2016/20161018.json"
+      ],
+      "屏幕": [
+        "https://www.smartisan.com/pr/data/year/2016/20161018.json"
+      ],
+      "电池典型容量": [
+        "https://www.smartisan.com/pr/data/year/2016/20161018.json"
+      ]
+    }
+  },
+  {
+    "id": "m1l",
+    "name": "Smartisan M1L",
+    "category": "手机",
+    "era": "锤子科技阶段",
+    "release_date": "2016-10-18",
+    "date_precision": "day",
+    "date_status": "已核对发布资料",
+    "specs": {
+      "处理器": "骁龙 821",
+      "屏幕": "5.7 英寸 LCD",
+      "电池典型容量": "4080 mAh"
+    },
+    "features": "更大显示面积与电池、含镜面不锈钢版本",
+    "design_reading": "把大屏与材料选择放在同一张展台上，比较功能与手感。",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [
+      "白·哑光铝合金",
+      "咖啡金·皮革",
+      "白·镜面不锈钢"
+    ],
+    "images": [
+      "assets/display/1fae9304633a272d.webp"
+    ],
+    "image_status": "官方图片；非三维模型",
+    "sources": [
+      "https://www.smartisan.com/m1/",
+      "https://www.smartisan.com/pr/#/pictures",
+      "https://tech.sina.com.cn/t/2016-10-20/doc-ifxwzuci9170147.shtml",
+      "https://www.smartisan.com/pr/data/year/2016/20161018.json"
+    ],
+    "verification": "发布日期、发布价格与简洁参数已对照发布资料；资料冲突另见字段备注",
+    "related_accessories": [
+      "m1-package",
+      "s1000"
+    ],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "launch_options": [
+      {
+        "configuration": "4GB + 32GB · 全网通",
+        "price_cny": 2799,
+        "currency": "CNY",
+        "source": "https://tech.sina.com.cn/t/2016-10-20/doc-ifxwzuci9170147.shtml"
+      },
+      {
+        "configuration": "6GB + 64GB · 标准材质版本",
+        "price_cny": 2999,
+        "currency": "CNY",
+        "source": "https://tech.sina.com.cn/t/2016-10-20/doc-ifxwzuci9170147.shtml"
+      },
+      {
+        "configuration": "6GB + 64GB · 白·镜面不锈钢",
+        "price_cny": 3299,
+        "currency": "CNY",
+        "source": "https://tech.sina.com.cn/t/2016-10-20/doc-ifxwzuci9170147.shtml"
+      }
+    ],
+    "launch_price_note": "",
+    "collection_group": "手机",
+    "release_date_source": "https://www.smartisan.com/pr/data/year/2016/20161018.json",
+    "design_headline": "把更大的内容，放进更讲究的物件。",
+    "design_highlights": [
+      {
+        "title": "5.7 英寸 2K 屏",
+        "text": "更大的显示面积承载文字与多任务。"
+      },
+      {
+        "title": "镜面不锈钢版本",
+        "text": "以可选材料的反光质感，探索机身的物件感。"
+      },
+      {
+        "title": "4080mAh 电池",
+        "text": "让大屏体验获得更充足的电量支撑。"
+      },
+      {
+        "title": "咖啡金·真皮版本",
+        "text": "用另一种可选材质带来温润的触觉表达。"
+      },
+      {
+        "title": "一步与大爆炸",
+        "text": "大屏与系统效率功能在同一代相遇。"
+      },
+      {
+        "title": "正面指纹",
+        "text": "圆形按键成为正面的视觉与操作中心。"
+      }
+    ],
+    "display_accent": "#b99a76",
+    "spec_sources": {
+      "处理器": [
+        "https://www.smartisan.com/pr/data/year/2016/20161018.json"
+      ],
+      "屏幕": [
+        "https://www.smartisan.com/pr/data/year/2016/20161018.json"
+      ],
+      "电池典型容量": [
+        "https://www.smartisan.com/pr/data/year/2016/20161018.json"
+      ]
+    }
+  },
+  {
+    "id": "pro",
+    "name": "坚果 Pro",
+    "category": "手机",
+    "era": "锤子科技阶段",
+    "release_date": "2017-05-09",
+    "date_precision": "day",
+    "date_status": "已核对发布资料",
+    "specs": {
+      "处理器": "骁龙 625／626（依容量版本）",
+      "屏幕": "5.5 英寸 LCD",
+      "电池典型容量": "3500 mAh"
+    },
+    "features": "方正轮廓、玻璃与金属、细红线版本",
+    "design_reading": "观察锐利的视觉轮廓如何形成辨识度，也讨论握持代价。",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [
+      "碳黑",
+      "酒红",
+      "细红线",
+      "浅金",
+      "巧克力等后续配色"
+    ],
+    "images": [
+      "assets/display/d7aea287a126848a.webp",
+      "assets/display/b788df4406b77e29.webp",
+      "assets/display/968fce5fcec9f2dd.webp",
+      "assets/display/abcbd39d386b0f44.webp",
+      "assets/display/5cf65de7c0588bd6.webp",
+      "assets/display/c2f1bfdf6eb8700b.webp",
+      "assets/display/ce9030c7c21bf8b1.webp"
+    ],
+    "image_status": "官方图片；非三维模型",
+    "sources": [
+      "https://www.smartisan.com/jianguopro/",
+      "https://www.smartisan.com/pr/#/pictures",
+      "https://www.smartisan.com/pr/data/year/2017/20170509.json"
+    ],
+    "verification": "发布日期、发布价格与简洁参数已对照发布资料；资料冲突另见字段备注",
+    "related_accessories": [
+      "s1000"
+    ],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "launch_options": [
+      {
+        "configuration": "4GB + 32GB",
+        "price_cny": 1499,
+        "currency": "CNY",
+        "source": "https://www.smartisan.com/pr/data/year/2017/20170509.json"
+      },
+      {
+        "configuration": "4GB + 64GB",
+        "price_cny": 1799,
+        "currency": "CNY",
+        "source": "https://www.smartisan.com/pr/data/year/2017/20170509.json"
+      },
+      {
+        "configuration": "4GB + 128GB",
+        "price_cny": 2299,
+        "currency": "CNY",
+        "source": "https://www.smartisan.com/pr/data/year/2017/20170509.json"
+      }
+    ],
+    "launch_price_note": "细红线特别版对应 4GB + 128GB；后续新增配色不计入首发配色。",
+    "collection_group": "手机",
+    "release_date_source": "https://www.smartisan.com/pr/data/year/2017/20170509.json",
+    "design_headline": "把方正，变成一眼可认的轮廓。",
+    "design_highlights": [
+      {
+        "title": "方正机身",
+        "text": "直线与清楚的转折形成强烈辨识度。"
+      },
+      {
+        "title": "细红线特别版",
+        "text": "一条纤细的红色线条，点亮黑色轮廓。"
+      },
+      {
+        "title": "玻璃与金属",
+        "text": "以两种材质组合出清晰的边界。"
+      },
+      {
+        "title": "酒红色",
+        "text": "让色彩在冷静轮廓之外增加另一层性格。"
+      },
+      {
+        "title": "闪念胶囊",
+        "text": "让临时冒出的想法拥有随手收纳的地方。"
+      }
+    ],
+    "display_accent": "#b96f63",
+    "spec_sources": {
+      "处理器": [
+        "https://www.smartisan.com/pr/data/year/2017/20170509.json"
+      ],
+      "屏幕": [
+        "https://www.smartisan.com/pr/data/year/2017/20170509.json"
+      ],
+      "电池典型容量": [
+        "https://www.smartisan.com/pr/data/year/2017/20170509.json"
+      ]
+    }
+  },
+  {
+    "id": "pro2",
+    "name": "坚果 Pro 2",
+    "category": "手机",
+    "era": "锤子科技阶段",
+    "release_date": "2017-11-07",
+    "date_precision": "day",
+    "date_status": "已核对发布资料",
+    "specs": {
+      "处理器": "骁龙 660",
+      "屏幕": "5.99 英寸 LCD",
+      "电池典型容量": "3500 mAh"
+    },
+    "features": "隐藏式听筒、弱化的副摄、Logo 与指纹融合",
+    "design_reading": "通过减少正面和背面的视觉噪声，形成更完整的机身。",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [
+      "标准版",
+      "特别版：骁龙 636，2018-05-15 发布",
+      "白色等后续配色"
+    ],
+    "images": [
+      "assets/display/2e94591af320540b.webp",
+      "assets/display/6b557bd8efe75ff1.webp"
+    ],
+    "image_status": "官方图片；非三维模型",
+    "sources": [
+      "https://www.smartisan.com/jianguopro2/",
+      "https://www.smartisan.com/pr/#/pictures",
+      "https://www.smartisan.com/pr/data/year/2017/20171107.json"
+    ],
+    "verification": "发布日期、发布价格与简洁参数已对照发布资料；资料冲突另见字段备注",
+    "related_accessories": [
+      "shop-1000530"
+    ],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "launch_options": [
+      {
+        "configuration": "4GB + 32GB",
+        "price_cny": 1799,
+        "currency": "CNY",
+        "source": "https://www.smartisan.com/pr/data/year/2017/20171107.json"
+      },
+      {
+        "configuration": "4GB + 64GB",
+        "price_cny": 1999,
+        "currency": "CNY",
+        "source": "https://www.smartisan.com/pr/data/year/2017/20171107.json"
+      },
+      {
+        "configuration": "6GB + 64GB",
+        "price_cny": 2299,
+        "currency": "CNY",
+        "source": "https://www.smartisan.com/pr/data/year/2017/20171107.json"
+      },
+      {
+        "configuration": "6GB + 128GB",
+        "price_cny": 2699,
+        "currency": "CNY",
+        "source": "https://www.smartisan.com/pr/data/year/2017/20171107.json"
+      },
+      {
+        "configuration": "6GB + 256GB",
+        "price_cny": 3299,
+        "currency": "CNY",
+        "source": "https://www.smartisan.com/pr/data/year/2017/20171107.json"
+      }
+    ],
+    "launch_price_note": "",
+    "collection_group": "手机",
+    "release_date_source": "https://www.smartisan.com/pr/data/year/2017/20171107.json",
+    "design_headline": "让看得见的部分，更加安静。",
+    "design_highlights": [
+      {
+        "title": "隐藏式听筒",
+        "text": "把听筒融入边缘，减少正面的视觉干扰。"
+      },
+      {
+        "title": "Logo 与指纹合一",
+        "text": "将解锁入口与背部标识安排在同一处。"
+      },
+      {
+        "title": "弱化副摄",
+        "text": "用更克制的排布处理双摄中的视觉主次。"
+      },
+      {
+        "title": "18:9 屏幕",
+        "text": "在修长比例里重新安排正面空间。"
+      },
+      {
+        "title": "纤细轮廓线",
+        "text": "以细节强化方正而轻盈的机身印象。"
+      },
+      {
+        "title": "闪念胶囊",
+        "text": "把快速记录继续放在系统体验的重要位置。"
+      }
+    ],
+    "display_accent": "#b96f63",
+    "spec_sources": {
+      "处理器": [
+        "https://www.smartisan.com/pr/data/year/2017/20171107.json"
+      ],
+      "屏幕": [
+        "https://www.smartisan.com/pr/data/year/2017/20171107.json"
+      ],
+      "电池典型容量": [
+        "https://www.smartisan.com/pr/data/year/2017/20171107.json"
+      ]
+    }
+  },
+  {
+    "id": "nut3",
+    "name": "坚果 3",
+    "category": "手机",
+    "era": "锤子科技阶段",
+    "release_date": "2018-04-09",
+    "date_precision": "day",
+    "date_status": "已核对发布资料",
+    "specs": {
+      "处理器": "骁龙 625",
+      "屏幕": "5.99 英寸 LCD",
+      "电池典型容量": "4000 mAh"
+    },
+    "features": "三面窄边框、前置相机位于下方、正面指纹",
+    "design_reading": "展示有限成本下的空间重新分配，并让观众体验倒转自拍的代价。",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [
+      "黑色",
+      "酒红",
+      "浅金",
+      "炫光黑",
+      "炫光红"
+    ],
+    "images": [
+      "assets/display/e19e67c637f30a26.webp",
+      "assets/display/cd65d970b24d1f43.webp",
+      "assets/display/672e45c95c4491c0.webp",
+      "assets/display/00d25b63f07eda3b.webp"
+    ],
+    "image_status": "官方图片；非三维模型",
+    "sources": [
+      "https://www.smartisan.com/u3/",
+      "https://www.smartisan.com/pr/#/pictures",
+      "https://www.smartisan.com/pr/data/year/2018/20180409.json"
+    ],
+    "verification": "发布日期、发布价格与简洁参数已对照发布资料；资料冲突另见字段备注",
+    "related_accessories": [
+      "shop-1000530"
+    ],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "launch_options": [
+      {
+        "configuration": "4GB + 32GB",
+        "price_cny": 1299,
+        "currency": "CNY",
+        "source": "https://www.smartisan.com/pr/data/year/2018/20180409.json"
+      },
+      {
+        "configuration": "4GB + 64GB",
+        "price_cny": 1599,
+        "currency": "CNY",
+        "source": "https://www.smartisan.com/pr/data/year/2018/20180409.json"
+      }
+    ],
+    "launch_price_note": "以 2018-04-09 官方发布稿公布的两档配置为准。",
+    "collection_group": "手机",
+    "release_date_source": "https://www.smartisan.com/pr/data/year/2018/20180409.json",
+    "design_headline": "把空间让给屏幕，也重新安排动作。",
+    "design_highlights": [
+      {
+        "title": "三面窄边框",
+        "text": "让上方与两侧边缘尽可能退后。"
+      },
+      {
+        "title": "下置前摄",
+        "text": "把自拍镜头放到机身下方，改变正面布局。"
+      },
+      {
+        "title": "正面指纹",
+        "text": "在屏幕下方保留熟悉的解锁入口。"
+      },
+      {
+        "title": "4000mAh 电池",
+        "text": "大屏与电量同时成为这代产品的实用特征。"
+      },
+      {
+        "title": "金属中框",
+        "text": "用利落的边缘衔接双面玻璃。"
+      }
+    ],
+    "display_accent": "#b96f63",
+    "spec_sources": {
+      "处理器": [
+        "https://www.smartisan.com/pr/data/year/2018/20180409.json"
+      ],
+      "屏幕": [
+        "https://www.smartisan.com/pr/data/year/2018/20180409.json"
+      ],
+      "电池典型容量": [
+        "https://www.smartisan.com/pr/data/year/2018/20180409.json"
+      ]
+    }
+  },
+  {
+    "id": "r1",
+    "name": "坚果 R1",
+    "category": "手机",
+    "era": "锤子科技阶段",
+    "release_date": "2018-05-15",
+    "date_precision": "day",
+    "date_status": "已核对发布资料",
+    "specs": {
+      "处理器": "骁龙 845",
+      "屏幕": "6.17 英寸 LCD",
+      "电池典型容量": "3600 mAh"
+    },
+    "features": "旗舰性能、最高 1TB 存储、无线充电与 TNT",
+    "design_reading": "把手机作为随身计算中心的野心，与实际使用条件并置。",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [
+      "碳黑",
+      "纯白",
+      "孔雀蓝",
+      "1TB 版本"
+    ],
+    "images": [
+      "assets/display/471ef4459d6a3ce8.webp",
+      "assets/display/24c8d2817863826f.webp",
+      "assets/display/5b04a572aa8a9499.webp",
+      "assets/display/3b9f079c6e646ccc.webp"
+    ],
+    "image_status": "官方图片；非三维模型",
+    "sources": [
+      "https://www.smartisan.com/r1/",
+      "https://www.smartisan.com/pr/#/pictures",
+      "https://www.smartisan.com/pr/data/year/2018/20180515.json"
+    ],
+    "verification": "发布日期、发布价格与简洁参数已对照发布资料；资料冲突另见字段备注",
+    "related_accessories": [
+      "tnt",
+      "shop-1000530"
+    ],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "launch_options": [
+      {
+        "configuration": "6GB + 64GB",
+        "price_cny": 3499,
+        "currency": "CNY",
+        "source": "https://www.smartisan.com/pr/data/year/2018/20180515.json"
+      },
+      {
+        "configuration": "6GB + 128GB",
+        "price_cny": 3999,
+        "currency": "CNY",
+        "source": "https://www.smartisan.com/pr/data/year/2018/20180515.json"
+      },
+      {
+        "configuration": "8GB + 128GB",
+        "price_cny": 4499,
+        "currency": "CNY",
+        "source": "https://www.smartisan.com/pr/data/year/2018/20180515.json"
+      },
+      {
+        "configuration": "8GB + 1TB",
+        "price_cny": 8848,
+        "currency": "CNY",
+        "source": "https://www.smartisan.com/pr/data/year/2018/20180515.json"
+      }
+    ],
+    "launch_price_note": "",
+    "collection_group": "手机",
+    "release_date_source": "https://www.smartisan.com/pr/data/year/2018/20180515.json",
+    "design_headline": "让一部手机，成为计算的中心。",
+    "design_highlights": [
+      {
+        "title": "TNT 的起点",
+        "text": "把随身手机连接到更大的桌面场景。"
+      },
+      {
+        "title": "最高 1TB 版本",
+        "text": "让海量存储成为这一代最鲜明的配置符号。"
+      },
+      {
+        "title": "无线充电",
+        "text": "减少一次插线动作，也拓展桌面使用方式。"
+      },
+      {
+        "title": "骁龙 845",
+        "text": "为手机与扩展场景提供旗舰性能基础。"
+      },
+      {
+        "title": "纯白色版本",
+        "text": "在玻璃与金属之间保持清爽的完整感。"
+      },
+      {
+        "title": "Logo 指纹",
+        "text": "继续融合背部标识与解锁入口。"
+      }
+    ],
+    "display_accent": "#b96f63",
+    "spec_sources": {
+      "处理器": [
+        "https://www.smartisan.com/pr/data/year/2018/20180515.json"
+      ],
+      "屏幕": [
+        "https://www.smartisan.com/pr/data/year/2018/20180515.json"
+      ],
+      "电池典型容量": [
+        "https://www.smartisan.com/pr/data/year/2018/20180515.json"
+      ]
+    }
+  },
+  {
+    "id": "pro2s",
+    "name": "坚果 Pro 2S",
+    "category": "手机",
+    "era": "锤子科技阶段",
+    "release_date": "2018-08-20",
+    "date_precision": "day",
+    "date_status": "已核对发布资料",
+    "specs": {
+      "处理器": "骁龙 710",
+      "屏幕": "6.01 英寸 AMOLED",
+      "电池典型容量": "3600 mAh"
+    },
+    "features": "AMOLED、无限屏、TNT 输出能力",
+    "design_reading": "以一款更务实的产品呈现效率功能走向日常的路径。",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [
+      "炫光蓝",
+      "炫光红",
+      "碳黑",
+      "纯白"
+    ],
+    "images": [
+      "assets/display/c0dfd9986d8fc932.webp",
+      "assets/display/12aec341f1c03bef.webp",
+      "assets/display/6d58e3fdc83a87cb.webp",
+      "assets/display/54ca68eb1153a3c7.webp"
+    ],
+    "image_status": "官方图片；非三维模型",
+    "sources": [
+      "https://www.smartisan.com/jianguopro2s/",
+      "https://www.smartisan.com/pr/#/pictures",
+      "https://www.smartisan.com/pr/data/year/2018/20180820.json"
+    ],
+    "verification": "发布日期、发布价格与简洁参数已对照发布资料；资料冲突另见字段备注",
+    "related_accessories": [
+      "tnt"
+    ],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "launch_options": [
+      {
+        "configuration": "4GB + 64GB",
+        "price_cny": 1798,
+        "currency": "CNY",
+        "source": "https://www.smartisan.com/pr/data/year/2018/20180820.json"
+      },
+      {
+        "configuration": "6GB + 64GB",
+        "price_cny": 1998,
+        "currency": "CNY",
+        "source": "https://www.smartisan.com/pr/data/year/2018/20180820.json"
+      },
+      {
+        "configuration": "6GB + 128GB",
+        "price_cny": 2298,
+        "currency": "CNY",
+        "source": "https://www.smartisan.com/pr/data/year/2018/20180820.json"
+      }
+    ],
+    "launch_price_note": "",
+    "collection_group": "手机",
+    "release_date_source": "https://www.smartisan.com/pr/data/year/2018/20180820.json",
+    "design_headline": "让熟悉的屏幕，拥有更大的空间。",
+    "design_highlights": [
+      {
+        "title": "无限屏",
+        "text": "用空间导航的思路重新想象应用切换。"
+      },
+      {
+        "title": "AMOLED 屏幕",
+        "text": "把这一代的显示体验带到新的面板选择。"
+      },
+      {
+        "title": "TNT 输出",
+        "text": "让手机接入大屏，打开另一种使用场景。"
+      },
+      {
+        "title": "骁龙 710",
+        "text": "在日常体验与性能之间选择更务实的组合。"
+      },
+      {
+        "title": "炫光配色",
+        "text": "用光线变化丰富方正机身的表情。"
+      }
+    ],
+    "display_accent": "#b96f63",
+    "spec_sources": {
+      "处理器": [
+        "https://www.smartisan.com/pr/data/year/2018/20180820.json"
+      ],
+      "屏幕": [
+        "https://www.smartisan.com/pr/data/year/2018/20180820.json"
+      ],
+      "电池典型容量": [
+        "https://www.smartisan.com/pr/data/year/2018/20180820.json"
+      ]
+    }
+  },
+  {
+    "id": "pro3",
+    "name": "坚果 Pro 3",
+    "category": "手机",
+    "era": "大眼星空／新石实验室阶段",
+    "release_date": "2019-10-31",
+    "date_precision": "day",
+    "date_status": "已核对发布资料",
+    "specs": {
+      "处理器": "骁龙 855 Plus",
+      "屏幕": "6.39 英寸 AMOLED",
+      "电池典型容量": "4000 mAh"
+    },
+    "features": "方正机身、四摄、Smartisan OS 7.0",
+    "design_reading": "新团队阶段仍然保留的轮廓秩序，以及系统效率功能的延续。",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [
+      "黑色",
+      "白色",
+      "松绿色"
+    ],
+    "images": [
+      "assets/display/2b055bafe2948e6f.webp",
+      "assets/display/55c5d10a28c2294b.webp",
+      "assets/display/f4536f20a3b80a0b.webp",
+      "assets/display/8e7fb13cc76b6be2.webp"
+    ],
+    "image_status": "官方图片；非三维模型",
+    "sources": [
+      "https://www.smartisan.com/jianguopro3/",
+      "https://www.smartisan.com/pr/#/pictures",
+      "http://tech.china.com.cn/roll/20191101/360449.shtml",
+      "https://tech.ifeng.com/c/7rEDNopPXfc"
+    ],
+    "verification": "发布日期、发布价格与简洁参数已对照发布资料；资料冲突另见字段备注",
+    "related_accessories": [
+      "shop-1000610",
+      "shop-1000637"
+    ],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "collection_group": "手机",
+    "launch_options": [
+      {
+        "configuration": "8GB + 128GB",
+        "price_cny": 2899,
+        "currency": "CNY",
+        "source": "http://tech.china.com.cn/roll/20191101/360449.shtml"
+      },
+      {
+        "configuration": "8GB + 256GB",
+        "price_cny": 3199,
+        "currency": "CNY",
+        "source": "http://tech.china.com.cn/roll/20191101/360449.shtml"
+      },
+      {
+        "configuration": "12GB + 256GB",
+        "price_cny": 3599,
+        "currency": "CNY",
+        "source": "http://tech.china.com.cn/roll/20191101/360449.shtml"
+      }
+    ],
+    "launch_price_note": "12GB + 256GB 按中国网 2019-11-01 报道记录 ¥3,599；凤凰网发布当晚文字写作 ¥3,399，存在来源冲突，高配定价仍待官方发布会画面进一步复核。",
+    "release_date_source": "https://tech.ifeng.com/c/7rEDNopPXfc",
+    "design_headline": "保留熟悉的轮廓，继续推进效率。",
+    "design_highlights": [
+      {
+        "title": "Smartisan OS 7.0",
+        "text": "让大爆炸、一步与闪念胶囊继续演进。"
+      },
+      {
+        "title": "方正轮廓",
+        "text": "用利落中框保持坚果系列的识别感。"
+      },
+      {
+        "title": "四摄排布",
+        "text": "在背部安排多种焦段与拍摄用途。"
+      },
+      {
+        "title": "骁龙 855 Plus",
+        "text": "让旗舰性能延续到新的团队阶段。"
+      },
+      {
+        "title": "松绿色版本",
+        "text": "用沉静色彩形成这一代独特的外观记忆。"
+      },
+      {
+        "title": "4000mAh 电池",
+        "text": "在轻薄轮廓中保留日常使用所需的电量。"
+      }
+    ],
+    "display_accent": "#8da792",
+    "spec_sources": {
+      "处理器": [
+        "https://tech.ifeng.com/c/7rEDNopPXfc"
+      ],
+      "屏幕": [
+        "https://tech.ifeng.com/c/7rEDNopPXfc"
+      ],
+      "电池典型容量": [
+        "https://tech.ifeng.com/c/7rEDNopPXfc"
+      ]
+    },
+    "price_conflicts": [
+      {
+        "configuration": "12GB + 256GB",
+        "values": [
+          {
+            "price_cny": 3599,
+            "source": "http://tech.china.com.cn/roll/20191101/360449.shtml"
+          },
+          {
+            "price_cny": 3399,
+            "source": "https://tech.ifeng.com/c/7rEDNopPXfc"
+          }
+        ],
+        "status": "保留当前较明确的分档价格来源，并公开冲突，不据单篇报道静默改价"
+      }
+    ]
+  },
+  {
+    "id": "r2",
+    "name": "坚果 R2",
+    "category": "手机",
+    "era": "大眼星空／新石实验室阶段",
+    "release_date": "2020-10-20",
+    "date_precision": "day",
+    "date_status": "已核对发布资料",
+    "specs": {
+      "处理器": "骁龙 865",
+      "屏幕": "6.67 英寸 90Hz AMOLED",
+      "电池典型容量": "4510 mAh"
+    },
+    "features": "5G、曲面屏、55W 充电、光阴特别版",
+    "design_reading": "记录经典直角中框与曲面显示的结合，以及光敏背板对时间的表达。",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [
+      "浅黑色",
+      "松绿色",
+      "纯白色·光阴特别版"
+    ],
+    "images": [
+      "assets/display/117d90694a7fbed2.webp",
+      "assets/display/a4c9faca804e3e50.webp",
+      "assets/display/78c3e6a23fb0dbf5.webp",
+      "assets/display/38ae41cdcc578a9c.webp",
+      "assets/display/a7cb1bbaab79bcb7.webp",
+      "assets/display/a9619a60019430ea.webp",
+      "assets/display/244ebfbb78411aa8.webp"
+    ],
+    "image_status": "官方图片；非三维模型",
+    "sources": [
+      "https://www.smartisan.com/r2/",
+      "https://www.smartisan.com/pr/#/pictures",
+      "https://finance.sina.com.cn/tech/2020-10-20/doc-iiznctkc6687691.shtml"
+    ],
+    "verification": "发布日期、发布价格与简洁参数已对照发布资料；资料冲突另见字段备注",
+    "related_accessories": [
+      "shop-1001874",
+      "shop-1001859",
+      "shop-1001877",
+      "shop-1001862",
+      "shop-1001860",
+      "shop-1001868",
+      "buds",
+      "shop-1001858"
+    ],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "launch_options": [
+      {
+        "configuration": "8GB + 128GB",
+        "price_cny": 4499,
+        "currency": "CNY",
+        "source": "https://finance.sina.com.cn/tech/2020-10-20/doc-iiznctkc6687691.shtml"
+      },
+      {
+        "configuration": "8GB + 256GB",
+        "price_cny": 4799,
+        "currency": "CNY",
+        "source": "https://finance.sina.com.cn/tech/2020-10-20/doc-iiznctkc6687691.shtml"
+      },
+      {
+        "configuration": "12GB + 256GB",
+        "price_cny": 5299,
+        "currency": "CNY",
+        "source": "https://finance.sina.com.cn/tech/2020-10-20/doc-iiznctkc6687691.shtml"
+      },
+      {
+        "configuration": "16GB + 512GB",
+        "price_cny": 6499,
+        "currency": "CNY",
+        "source": "https://finance.sina.com.cn/tech/2020-10-20/doc-iiznctkc6687691.shtml"
+      }
+    ],
+    "launch_price_note": "",
+    "collection_group": "手机",
+    "release_date_source": "https://finance.sina.com.cn/tech/2020-10-20/doc-iiznctkc6687691.shtml",
+    "design_headline": "在经典轮廓里，留下时间的痕迹。",
+    "design_highlights": [
+      {
+        "title": "直角中框",
+        "text": "在曲面显示之外，保留清晰的外部轮廓。"
+      },
+      {
+        "title": "光阴特别版",
+        "text": "以可选版本的光敏背板，把时间变成外观的一部分。"
+      },
+      {
+        "title": "90Hz 曲面屏",
+        "text": "让滚动与视觉过渡获得更流畅的显示体验。"
+      },
+      {
+        "title": "55W 充电",
+        "text": "缩短补电等待，让使用节奏更连贯。"
+      },
+      {
+        "title": "TNT 2.0",
+        "text": "与 TNT go 配合，将手机延伸到桌面工作场景。"
+      },
+      {
+        "title": "5G 与骁龙 865",
+        "text": "在这一代接入新的移动网络与性能平台。"
+      }
+    ],
+    "display_accent": "#8da792",
+    "spec_sources": {
+      "处理器": [
+        "https://finance.sina.com.cn/tech/2020-10-20/doc-iiznctkc6687691.shtml"
+      ],
+      "屏幕": [
+        "https://finance.sina.com.cn/tech/2020-10-20/doc-iiznctkc6687691.shtml"
+      ],
+      "电池典型容量": [
+        "https://finance.sina.com.cn/tech/2020-10-20/doc-iiznctkc6687691.shtml"
+      ]
+    }
+  },
+  {
+    "id": "s1000",
+    "name": "Smartisan S-1000／S-1000-B",
+    "category": "耳机",
+    "era": "官方媒体影像档案",
+    "release_date": "2015-10-19",
+    "date_precision": "unknown",
+    "date_status": "待核实",
+    "specs": {
+      "接口": "3.5 mm 有线",
+      "调音版本": "均衡版／低音版",
+      "开发与生产合作": "VSONIC（威索尼可）"
+    },
+    "features": "均衡版与低频增强版；由 Smartisan 设计，与 VSONIC 合作开发生产",
+    "design_reading": "均衡版／低音版分支；以包装和型号铭牌进一步核对",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [],
+    "images": [
+      "assets/display/ed30ffce0998d34c.webp",
+      "assets/display/856d6d50f55f222b.webp",
+      "assets/display/3280c3f3f49967c2.webp",
+      "assets/display/10dd9b9cfa6a6823.webp",
+      "assets/display/1a70d3750fbd127f.webp",
+      "assets/display/39050be35b21429c.webp"
+    ],
+    "image_status": "官方媒体中心图片",
+    "sources": [
+      "https://www.smartisan.com/pr/#/pictures",
+      "https://sound.zol.com.cn/550/5509901.html",
+      "https://www.smartisan.com/pr/data/year/2015/20151019.json"
+    ],
+    "verification": "2015-10-19 官方发布稿明确记载设计、开发生产合作与 ¥199 定价",
+    "related_accessories": [],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "launch_options": [
+      {
+        "configuration": "S-1000 · 均衡版",
+        "price_cny": 199,
+        "currency": "CNY",
+        "source": "https://www.smartisan.com/pr/data/year/2015/20151019.json"
+      },
+      {
+        "configuration": "S-1000 BASS · 低频增强版",
+        "price_cny": 199,
+        "currency": "CNY",
+        "source": "https://www.smartisan.com/pr/data/year/2015/20151019.json"
+      }
+    ],
+    "launch_price_note": "",
+    "collection_group": "周边",
+    "design_headline": "把声音与线条，都收拾得干净。",
+    "design_highlights": [
+      {
+        "title": "两种调音",
+        "text": "均衡与低频增强，提供不同声音取向。"
+      },
+      {
+        "title": "有线连接",
+        "text": "以 3.5mm 接口连接聆听设备。"
+      },
+      {
+        "title": "入耳轮廓",
+        "text": "用小尺寸耳塞形成集中的佩戴形态。"
+      },
+      {
+        "title": "线控操作",
+        "text": "将日常控制留在手边。"
+      },
+      {
+        "title": "简洁外形",
+        "text": "用几何轮廓与精细表面延续物件气质。"
+      }
+    ],
+    "display_accent": "#8b9fa9"
+  },
+  {
+    "id": "tnt",
+    "name": "坚果 TNT 工作站",
+    "category": "TNT",
+    "era": "官方媒体影像档案",
+    "release_date": "2018-05-15",
+    "date_precision": "day",
+    "date_status": "有发布报道",
+    "specs": {
+      "显示屏": "27 英寸 4K 触控",
+      "形态": "手机驱动的桌面扩展方案",
+      "上市状态": "已发布；量产与实际交付须分项核实"
+    },
+    "features": "27 英寸 4K 触控显示方案；已发布，量产销售情况须独立核实",
+    "design_reading": "27 英寸 4K 触控显示方案；已发布，量产销售情况须独立核实",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [],
+    "images": [
+      "assets/display/5a93d965246fbf3e.webp",
+      "assets/display/7f891bab176730c5.webp",
+      "assets/display/dba39bbbda9a074a.webp",
+      "assets/display/ddee369f751059db.webp"
+    ],
+    "image_status": "官方媒体中心图片",
+    "sources": [
+      "https://www.smartisan.com/pr/#/pictures",
+      "https://www.smartisan.com/pr/data/year/2018/20180515.json"
+    ],
+    "verification": "图片来源已核；历史日期、型号与上市状态分项补证",
+    "related_accessories": [],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "launch_options": [
+      {
+        "configuration": "显示器版 · 预售起价",
+        "price_cny": 9999,
+        "currency": "CNY",
+        "source": "https://www.smartisan.com/pr/data/year/2018/20180515.json"
+      }
+    ],
+    "launch_price_note": "发布时公布的预售价，不代表已经量产交付。",
+    "collection_group": "周边",
+    "design_headline": "把随身计算，展开成一张工作台。",
+    "design_highlights": [
+      {
+        "title": "27 英寸 4K",
+        "text": "把手机内容展开到桌面尺度。"
+      },
+      {
+        "title": "触控显示",
+        "text": "让手指直接参与大屏交互。"
+      },
+      {
+        "title": "手机驱动",
+        "text": "把计算中心留在手机，显示与输入向外延伸。"
+      },
+      {
+        "title": "多窗口",
+        "text": "以桌面空间组织多个任务。"
+      },
+      {
+        "title": "TNT 概念",
+        "text": "这是一套已公布的扩展方案，交付历史另见档案。"
+      }
+    ],
+    "display_accent": "#8b9fa9"
+  },
+  {
+    "id": "shop-1000530",
+    "name": "坚果彩虹数据线",
+    "category": "配件",
+    "era": "跨阶段",
+    "release_date": "2018-08-20",
+    "date_precision": "unknown",
+    "date_status": "独立首发日期待核；不以发布会同期、后台创建或当前上架时间替代",
+    "specs": {
+      "产品类别": "数据线"
+    },
+    "features": "七彩配色随机发货，为生活增添一份小小惊喜",
+    "design_reading": "把日常数据线变成色彩物件，观察同一功能如何获得轻量的个性表达。",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [
+      {
+        "sku_id": "100053001",
+        "options": [
+          "1 条装"
+        ]
+      }
+    ],
+    "images": [
+      "assets/display/511bb433bc017071.webp"
+    ],
+    "image_status": "官方商城图片",
+    "sources": [
+      "https://www.smartisan.com/item/1000530",
+      "https://www.smartisan.com/pr/data/year/2018/20180820.json"
+    ],
+    "verification": "官方目录与图片已核验；历史首发日及规格待补",
+    "related_accessories": [],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "launch_options": [
+      {
+        "configuration": "彩虹数据线",
+        "price_cny": 19,
+        "currency": "CNY",
+        "source": "https://www.smartisan.com/pr/data/year/2018/20180820.json"
+      }
+    ],
+    "launch_price_note": "",
+    "collection_group": "周边",
+    "design_headline": "把每天的连接，也做得讲究。",
+    "design_highlights": [
+      {
+        "title": "连接两端",
+        "text": "在设备与外设之间完成明确任务。"
+      },
+      {
+        "title": "线材物件",
+        "text": "观察长度、接口与收纳的日常关系。"
+      },
+      {
+        "title": "清晰用途",
+        "text": "七彩配色随机发货，为生活增添一份小小惊喜"
+      },
+      {
+        "title": "色彩与轮廓",
+        "text": "让普通线材也拥有识别感。"
+      },
+      {
+        "title": "随身连接",
+        "text": "把看似微小的配件放回使用场景。"
+      }
+    ],
+    "display_accent": "#8b9fa9"
+  },
+  {
+    "id": "shop-1001874",
+    "name": "Smartisan TNT go",
+    "category": "TNT",
+    "era": "大眼星空／新石实验室阶段",
+    "release_date": "2020-10-20",
+    "date_precision": "day",
+    "date_status": "发布会同期产品；独立首发日仍需逐项复核",
+    "specs": {
+      "产品类别": "TNT go",
+      "显示屏": "12 英寸，2160×1440，3:2",
+      "电池": "10160 mAh",
+      "版本": "有线版／无线版",
+      "形态": "手机扩展本，不是独立 Windows 电脑"
+    },
+    "features": "欢迎使用下一代电脑",
+    "design_reading": "把大屏、键盘和触控板组织为一件可携带物件，计算与应用仍依赖手机；把连接条件与桌面效率放在同一展签。",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [
+      {
+        "sku_id": "100187401",
+        "options": [
+          "有线版"
+        ]
+      },
+      {
+        "sku_id": "100187402",
+        "options": [
+          "无线版，含Smartisan 智能手写笔"
+        ]
+      }
+    ],
+    "images": [
+      "assets/display/27a312eb2595c230.webp",
+      "assets/display/a55baa255dc22a27.webp"
+    ],
+    "image_status": "官方商城图片",
+    "sources": [
+      "https://www.smartisan.com/item/1001874",
+      "https://www.ithome.com/0/514/719.htm",
+      "https://finance.sina.com.cn/tech/2020-10-20/doc-iiznctkc6687691.shtml"
+    ],
+    "verification": "官方目录与图片已核验；历史首发日及规格待补",
+    "related_accessories": [],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "launch_options": [
+      {
+        "configuration": "有线版",
+        "price_cny": 1999,
+        "currency": "CNY",
+        "source": "https://finance.sina.com.cn/tech/2020-10-20/doc-iiznctkc6687691.shtml"
+      },
+      {
+        "configuration": "无线版",
+        "price_cny": 2999,
+        "currency": "CNY",
+        "source": "https://finance.sina.com.cn/tech/2020-10-20/doc-iiznctkc6687691.shtml"
+      }
+    ],
+    "launch_price_note": "",
+    "collection_group": "周边",
+    "design_headline": "合上是扩展本，打开是手机的另一种尺度。",
+    "design_highlights": [
+      {
+        "title": "手机扩展本",
+        "text": "将显示、键盘与触控板组织为可携带物件。"
+      },
+      {
+        "title": "12 英寸 3:2",
+        "text": "让文档与工作内容拥有更舒展的比例。"
+      },
+      {
+        "title": "全尺寸键盘",
+        "text": "将长文字输入带到实体键盘上。"
+      },
+      {
+        "title": "玻璃触控板",
+        "text": "让光标操作与键盘输入形成一体。"
+      },
+      {
+        "title": "有线与无线版本",
+        "text": "为不同连接习惯提供版本选择。"
+      }
+    ],
+    "display_accent": "#8b9fa9"
+  },
+  {
+    "id": "shop-1001868",
+    "name": "Smartisan 真无线蓝牙耳机（抖音文创限量款）",
+    "category": "耳机",
+    "era": "大眼星空／新石实验室阶段",
+    "release_date": "2020-10-20",
+    "date_precision": "day",
+    "date_status": "发布会同期产品；独立首发日仍需逐项复核",
+    "specs": {
+      "产品类别": "蓝牙耳机",
+      "发声单元": "13 mm 动圈",
+      "蓝牙": "5.0",
+      "标称续航": "耳机约 4.5 小时 / 含盒约 18 小时（报道所载，非实测）",
+      "操控": "智能触控；支持呼出坚果闪念胶囊"
+    },
+    "features": "抖音文创限量版",
+    "design_reading": "在既有真无线耳机形态上改变品牌图形与配色，作为 Smartisan 与字节跳动产品关系的实物旁证；不把联名视作声学技术升级。",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [
+      {
+        "sku_id": "100186801",
+        "options": [
+          "黑色"
+        ]
+      }
+    ],
+    "images": [
+      "assets/display/18b40aa6c6f16ab8.webp"
+    ],
+    "image_status": "官方商城图片",
+    "sources": [
+      "https://www.smartisan.com/item/1001868",
+      "https://www.52audio.com/archives/59757.html"
+    ],
+    "verification": "发布日期、定价与所列参数经当年行业报道核对",
+    "related_accessories": [],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "launch_options": [
+      {
+        "configuration": "抖音文创限量款 · 黑色",
+        "price_cny": 299,
+        "currency": "CNY",
+        "source": "https://www.52audio.com/archives/59757.html"
+      }
+    ],
+    "launch_price_note": "",
+    "collection_group": "周边",
+    "design_headline": "在熟悉的形态上，留下新的品牌印记。",
+    "design_highlights": [
+      {
+        "title": "抖音联名",
+        "text": "用音符标识记录这一阶段的品牌联系。"
+      },
+      {
+        "title": "黑色外观",
+        "text": "以统一深色形成联名款的视觉表情。"
+      },
+      {
+        "title": "真无线形态",
+        "text": "耳机与充电盒共同构成随身组合。"
+      },
+      {
+        "title": "触控交互",
+        "text": "把操作安排在小尺寸耳机上。"
+      },
+      {
+        "title": "闪念胶囊",
+        "text": "与坚果手机的记录体验产生联系。"
+      }
+    ],
+    "display_accent": "#8b9fa9"
+  },
+  {
+    "id": "buds",
+    "name": "Smartisan Buds",
+    "category": "耳机",
+    "era": "官方媒体影像档案",
+    "release_date": "2020-10-20",
+    "date_precision": "day",
+    "date_status": "有发布报道",
+    "specs": {
+      "公布定位": "真无线主动降噪耳机",
+      "蓝牙": "5.0（同期报道）",
+      "标称降噪": "35 dB（公布值，非本馆实测）",
+      "标称总续航": "24 小时（含充电盒，非本馆实测）",
+      "零售状态": "已公布；尚无可引用的实际开售记录"
+    },
+    "features": "已公布的真无线主动降噪耳机；不据发布信息认定已经零售",
+    "design_reading": "已公布的真无线主动降噪耳机；不据发布信息认定已经零售",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [
+      "白色",
+      "绿色"
+    ],
+    "images": [
+      "assets/display/11945f9cb9f3bc8b.webp",
+      "assets/display/71b64d56255eed1d.webp"
+    ],
+    "image_status": "发布报道图片；已公布，零售未证实",
+    "sources": [
+      "https://www.52audio.com/archives/59757.html"
+    ],
+    "verification": "发布与公布参数据同期报道；实际开售情况未获独立证实",
+    "related_accessories": [],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "launch_options": [
+      {
+        "configuration": "Smartisan Buds · 公布定价",
+        "price_cny": 799,
+        "currency": "CNY",
+        "source": "https://www.52audio.com/archives/59757.html"
+      }
+    ],
+    "launch_price_note": "发布时已公布价格，零售交付情况暂无确证。",
+    "collection_group": "周边",
+    "design_headline": "把聆听，留给想听见的声音。",
+    "design_highlights": [
+      {
+        "title": "主动降噪",
+        "text": "发布时公布混合降噪方案与 35 dB 标称降噪深度。"
+      },
+      {
+        "title": "通透模式",
+        "text": "公布功能包含环境声通透模式。"
+      },
+      {
+        "title": "双重操控",
+        "text": "发布资料介绍压感与敲击两种操作方式。"
+      },
+      {
+        "title": "入耳检测",
+        "text": "发布时介绍入耳检测功能。"
+      },
+      {
+        "title": "双配色",
+        "text": "发布时展示白色与绿色两个配色。"
+      }
+    ],
+    "display_accent": "#8b9fa9"
+  },
+  {
+    "id": "shop-1001858",
+    "name": "坚果 R2 足迹系列保护套",
+    "category": "足迹",
+    "era": "大眼星空／新石实验室阶段",
+    "release_date": null,
+    "date_precision": "unknown",
+    "date_status": "独立首发日期待核；不以发布会同期、后台创建或当前上架时间替代",
+    "specs": {
+      "产品类别": "手机壳"
+    },
+    "features": "7种主题随机发货",
+    "design_reading": "从产品造型、包装与使用场景观察 Smartisan 的设计延伸。",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [
+      {
+        "sku_id": "100185801",
+        "options": [
+          "盲盒设计 7款主题随机发货"
+        ]
+      }
+    ],
+    "images": [
+      "assets/display/37f9ea92b5905a65.webp"
+    ],
+    "image_status": "官方商城图片",
+    "sources": [
+      "https://www.smartisan.com/item/1001858"
+    ],
+    "verification": "官方目录与图片已核验；历史首发日及规格待补",
+    "related_accessories": [],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "collection_group": "周边",
+    "launch_options": [],
+    "launch_price_note": "",
+    "design_headline": "让日常物件，成为一段历史的入口。",
+    "design_highlights": [
+      {
+        "title": "足迹主题",
+        "text": "把人类历史中的人物与事件带到保护套上。"
+      },
+      {
+        "title": "图案叙事",
+        "text": "通过颜色、文字与图形压缩一段故事。"
+      },
+      {
+        "title": "贴身携带",
+        "text": "让历史记忆进入日常使用的物件。"
+      },
+      {
+        "title": "型号适配",
+        "text": "为对应手机外形安排开孔与边界。"
+      },
+      {
+        "title": "系列表达",
+        "text": "同一载体承载不同的纪念主题。"
+      }
+    ],
+    "display_accent": "#8b9fa9",
+    "date_label": "首发日期未确证"
+  },
+  {
+    "id": "shop-1001854",
+    "name": "坚果 R2 足迹系列保护套 3M 开始销售透明胶带",
+    "category": "足迹",
+    "era": "大眼星空／新石实验室阶段",
+    "release_date": null,
+    "date_precision": "unknown",
+    "date_status": "独立首发日期待核；不以发布会同期、后台创建或当前上架时间替代",
+    "specs": {
+      "产品类别": "手机壳"
+    },
+    "features": "为了那些改变人类足迹的进程",
+    "design_reading": "从产品造型、包装与使用场景观察 Smartisan 的设计延伸。",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [
+      {
+        "sku_id": "100185401",
+        "options": [
+          "3M 开始销售透明胶带"
+        ]
+      }
+    ],
+    "images": [
+      "assets/display/cef95c212acfbece.webp"
+    ],
+    "image_status": "官方商城图片",
+    "sources": [
+      "https://www.smartisan.com/item/1001854"
+    ],
+    "verification": "官方目录与图片已核验；历史首发日及规格待补",
+    "related_accessories": [],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "collection_group": "周边",
+    "launch_options": [],
+    "launch_price_note": "",
+    "design_headline": "让日常物件，成为一段历史的入口。",
+    "design_highlights": [
+      {
+        "title": "足迹主题",
+        "text": "把人类历史中的人物与事件带到保护套上。"
+      },
+      {
+        "title": "图案叙事",
+        "text": "通过颜色、文字与图形压缩一段故事。"
+      },
+      {
+        "title": "贴身携带",
+        "text": "让历史记忆进入日常使用的物件。"
+      },
+      {
+        "title": "型号适配",
+        "text": "为对应手机外形安排开孔与边界。"
+      },
+      {
+        "title": "系列表达",
+        "text": "同一载体承载不同的纪念主题。"
+      }
+    ],
+    "display_accent": "#8b9fa9",
+    "date_label": "首发日期未确证"
+  },
+  {
+    "id": "shop-1001855",
+    "name": "坚果 R2 足迹系列保护套 圆珠笔的改进者出生",
+    "category": "足迹",
+    "era": "大眼星空／新石实验室阶段",
+    "release_date": null,
+    "date_precision": "unknown",
+    "date_status": "独立首发日期待核；不以发布会同期、后台创建或当前上架时间替代",
+    "specs": {
+      "产品类别": "手机壳"
+    },
+    "features": "为了那些改变人类足迹的进程",
+    "design_reading": "从产品造型、包装与使用场景观察 Smartisan 的设计延伸。",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [
+      {
+        "sku_id": "100185501",
+        "options": [
+          "圆珠笔的改进者出生"
+        ]
+      }
+    ],
+    "images": [
+      "assets/display/2e39c9a6956abfb6.webp"
+    ],
+    "image_status": "官方商城图片",
+    "sources": [
+      "https://www.smartisan.com/item/1001855"
+    ],
+    "verification": "官方目录与图片已核验；历史首发日及规格待补",
+    "related_accessories": [],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "collection_group": "周边",
+    "launch_options": [],
+    "launch_price_note": "",
+    "design_headline": "让日常物件，成为一段历史的入口。",
+    "design_highlights": [
+      {
+        "title": "足迹主题",
+        "text": "把人类历史中的人物与事件带到保护套上。"
+      },
+      {
+        "title": "图案叙事",
+        "text": "通过颜色、文字与图形压缩一段故事。"
+      },
+      {
+        "title": "贴身携带",
+        "text": "让历史记忆进入日常使用的物件。"
+      },
+      {
+        "title": "型号适配",
+        "text": "为对应手机外形安排开孔与边界。"
+      },
+      {
+        "title": "系列表达",
+        "text": "同一载体承载不同的纪念主题。"
+      }
+    ],
+    "display_accent": "#8b9fa9",
+    "date_label": "首发日期未确证"
+  },
+  {
+    "id": "shop-1001871",
+    "name": "Smartisan TNT 大满足套装",
+    "category": "TNT",
+    "era": "字节跳动旗下新石实验室阶段",
+    "release_date": "2020-10-20",
+    "date_precision": "day",
+    "date_status": "已核对发布资料",
+    "specs": {
+      "有线套装": "坚果 R2（8GB + 128GB）+ TNT go 有线版，含笔与扩展坞",
+      "无线套装": "坚果 R2（12GB + 256GB）+ TNT go 无线版，含笔与扩展坞"
+    },
+    "features": "下一代手机，下一代电脑",
+    "design_reading": "从产品造型、包装与使用场景观察 Smartisan 的设计延伸。",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [
+      "坚果 R2（8+128） + TNT go（有线版套装，含笔、扩展坞）",
+      "坚果 R2（12+256） + TNT go（无线版套装，含笔、扩展坞）"
+    ],
+    "images": [
+      "assets/display/acaefed7c03c6848.webp",
+      "assets/display/4f0ead5fa47910bf.webp"
+    ],
+    "image_status": "官方商城图片",
+    "sources": [
+      "https://www.smartisan.com/item/1001871",
+      "https://finance.sina.com.cn/tech/2020-10-20/doc-iiznctkc6687691.shtml",
+      "https://shopapi.smartisan.com/product/spus?ids=1002321,1000610,1001871,1001859,1001877,1001862,1000637"
+    ],
+    "verification": "公布价格据发布当晚新浪独家报道；套装构成据官网商品选项",
+    "related_accessories": [],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "collection_group": "周边",
+    "launch_options": [
+      {
+        "configuration": "有线版大满足套装",
+        "price_cny": 6999,
+        "currency": "CNY",
+        "source": "https://finance.sina.com.cn/tech/2020-10-20/doc-iiznctkc6687691.shtml"
+      },
+      {
+        "configuration": "无线版大满足套装",
+        "price_cny": 8299,
+        "currency": "CNY",
+        "source": "https://finance.sina.com.cn/tech/2020-10-20/doc-iiznctkc6687691.shtml"
+      }
+    ],
+    "launch_price_note": "",
+    "design_headline": "把手机与桌面，放进同一套体验。",
+    "design_highlights": [
+      {
+        "title": "R2 与 TNT go",
+        "text": "把随身手机与便携大屏组合起来。"
+      },
+      {
+        "title": "键盘与触控板",
+        "text": "让输入从触屏延伸到桌面操作。"
+      },
+      {
+        "title": "手写笔",
+        "text": "为书写与创作保留另一种输入方式。"
+      },
+      {
+        "title": "立式扩展坞",
+        "text": "将手机和外设连接集中到桌面。"
+      },
+      {
+        "title": "套装选择",
+        "text": "以不同配置组合承接不同使用需求。"
+      }
+    ],
+    "display_accent": "#8b9fa9",
+    "release_date_source": "https://finance.sina.com.cn/tech/2020-10-20/doc-iiznctkc6687691.shtml",
+    "catalog_observation": {
+      "accessed_at": "2026-11-04",
+      "source": "https://shopapi.smartisan.com/product/spus?ids=1002321,1000610,1001871,1001859,1001877,1001862,1000637",
+      "meaning": "商城目录可证明产品名称与所列选项；不以后台创建时间推断首发日期，不以当前标价推断发布价"
+    }
+  },
+  {
+    "id": "shop-1001859",
+    "name": "Smartisan 智能手写笔",
+    "category": "配件",
+    "era": "大眼星空／新石实验室阶段",
+    "release_date": null,
+    "date_precision": "unknown",
+    "date_status": "独立首发日期待核；不以发布会同期、后台创建或当前上架时间替代",
+    "specs": {
+      "产品类别": "电容笔"
+    },
+    "features": "尽情挥洒创造力",
+    "design_reading": "笔与扩展本配合，让大屏不只依赖键鼠；书写与手机计算之间的关系需要实物演示。",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [
+      "灰色"
+    ],
+    "images": [
+      "assets/display/91e76682a26f4135.webp"
+    ],
+    "image_status": "官方商城图片",
+    "sources": [
+      "https://www.smartisan.com/item/1001859",
+      "https://shopapi.smartisan.com/product/spus?ids=1002321,1000610,1001871,1001859,1001877,1001862,1000637"
+    ],
+    "verification": "官方商城目录与版本选项已核对；独立首发日或首发价未找到可靠历史记录",
+    "related_accessories": [],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "collection_group": "周边",
+    "launch_options": [],
+    "launch_price_note": "",
+    "design_headline": "让想法，沿着笔尖落到屏幕上。",
+    "design_highlights": [
+      {
+        "title": "智能手写笔",
+        "text": "为 TNT go 增加书写输入。"
+      },
+      {
+        "title": "笔形轮廓",
+        "text": "沿用人们熟悉的握持方式。"
+      },
+      {
+        "title": "直接书写",
+        "text": "把记录从按键输入扩展到笔尖。"
+      },
+      {
+        "title": "创作入口",
+        "text": "为绘写与标注留下空间。"
+      },
+      {
+        "title": "与扩展本配合",
+        "text": "作为大屏体验中的独立输入物件。"
+      }
+    ],
+    "display_accent": "#8b9fa9",
+    "catalog_observation": {
+      "accessed_at": "2026-11-04",
+      "source": "https://shopapi.smartisan.com/product/spus?ids=1002321,1000610,1001871,1001859,1001877,1001862,1000637",
+      "meaning": "商城目录可证明产品名称与所列选项；不以后台创建时间推断首发日期，不以当前标价推断发布价"
+    },
+    "date_label": "首发日期未确证"
+  },
+  {
+    "id": "shop-1001877",
+    "name": "Smartisan 手机立式扩展坞",
+    "category": "配件",
+    "era": "大眼星空／新石实验室阶段",
+    "release_date": null,
+    "date_precision": "unknown",
+    "date_status": "独立首发日期待核；不以发布会同期、后台创建或当前上架时间替代",
+    "specs": {
+      "产品类别": "拓展坞"
+    },
+    "features": "连屏幕，连外设，手机拓展一步到位",
+    "design_reading": "用直立收纳把手机、显示器与外设连接集中到桌面一个位置；兼容性需逐接口核对。",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [
+      "灰色"
+    ],
+    "images": [
+      "assets/display/ac5d4b1e7dc086c7.webp"
+    ],
+    "image_status": "官方商城图片",
+    "sources": [
+      "https://www.smartisan.com/item/1001877",
+      "https://shopapi.smartisan.com/product/spus?ids=1002321,1000610,1001871,1001859,1001877,1001862,1000637"
+    ],
+    "verification": "官方商城目录与版本选项已核对；独立首发日或首发价未找到可靠历史记录",
+    "related_accessories": [],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "collection_group": "周边",
+    "launch_options": [],
+    "launch_price_note": "",
+    "design_headline": "让桌面上的连接，各就其位。",
+    "design_highlights": [
+      {
+        "title": "立式收纳",
+        "text": "连接的同时，为手机提供固定位置。"
+      },
+      {
+        "title": "外接显示",
+        "text": "把手机画面延伸到更大屏幕。"
+      },
+      {
+        "title": "连接外设",
+        "text": "在桌面集中安排输入与扩展设备。"
+      },
+      {
+        "title": "集中的接口",
+        "text": "减少连接动作在桌面的散落。"
+      },
+      {
+        "title": "TNT 生态",
+        "text": "围绕手机驱动的桌面使用方式展开。"
+      }
+    ],
+    "display_accent": "#8b9fa9",
+    "catalog_observation": {
+      "accessed_at": "2026-11-04",
+      "source": "https://shopapi.smartisan.com/product/spus?ids=1002321,1000610,1001871,1001859,1001877,1001862,1000637",
+      "meaning": "商城目录可证明产品名称与所列选项；不以后台创建时间推断首发日期，不以当前标价推断发布价"
+    },
+    "date_label": "首发日期未确证"
+  },
+  {
+    "id": "shop-1001860",
+    "name": "Smartisan 手机支架",
+    "category": "配件",
+    "era": "大眼星空／新石实验室阶段",
+    "release_date": null,
+    "date_precision": "unknown",
+    "date_status": "独立首发日期待核；不以发布会同期、后台创建或当前上架时间替代",
+    "specs": {
+      "产品类别": "手机支架"
+    },
+    "features": "立得住，放的稳",
+    "design_reading": "从产品造型、包装与使用场景观察 Smartisan 的设计延伸。",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [
+      {
+        "sku_id": "100186001",
+        "options": [
+          "灰色"
+        ]
+      }
+    ],
+    "images": [
+      "assets/display/51ff1720f1f7d06d.webp"
+    ],
+    "image_status": "官方商城图片",
+    "sources": [
+      "https://www.smartisan.com/item/1001860"
+    ],
+    "verification": "官方目录与图片已核验；历史首发日及规格待补",
+    "related_accessories": [],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "collection_group": "周边",
+    "launch_options": [],
+    "launch_price_note": "",
+    "design_headline": "让手机，在桌面上稳稳站住。",
+    "design_highlights": [
+      {
+        "title": "折叠支架",
+        "text": "把便携收纳与桌面支撑放在一起。"
+      },
+      {
+        "title": "几何折线",
+        "text": "用简洁的转折构成支撑形态。"
+      },
+      {
+        "title": "桌面观看",
+        "text": "让手从持续握持中解放出来。"
+      },
+      {
+        "title": "手机为中心",
+        "text": "围绕手机的日常摆放设计。"
+      },
+      {
+        "title": "轻量物件",
+        "text": "以较少结构完成明确用途。"
+      }
+    ],
+    "display_accent": "#8b9fa9",
+    "date_label": "首发日期未确证"
+  },
+  {
+    "id": "shop-1000610",
+    "name": "Smartisan  颈挂蓝牙耳机",
+    "category": "耳机",
+    "era": "大眼星空／新石实验室阶段",
+    "release_date": null,
+    "date_precision": "unknown",
+    "date_status": "独立首发日期待核；不以发布会同期、后台创建或当前上架时间替代",
+    "specs": {
+      "产品类别": "蓝牙耳机",
+      "型号线索": "DS200（实物评测资料，待铭牌核验）",
+      "形态": "颈挂式蓝牙耳机",
+      "充电接口": "USB-C（评测资料）"
+    },
+    "features": "“圈铁一体代表作”",
+    "design_reading": "颈部承重、电池与耳塞分离，借磁吸收纳和项圈形态组织日常携带；与 TWS 并列看不同无线使用方式。",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [
+      "薄荷绿",
+      "红色"
+    ],
+    "images": [
+      "assets/display/1c14f03746ec3ba3.webp",
+      "assets/display/29ca981328e51121.webp"
+    ],
+    "image_status": "官方商城图片",
+    "sources": [
+      "https://www.smartisan.com/item/1000610",
+      "https://www.3elife.net/Art/test/202006/27/52229.html",
+      "https://shopapi.smartisan.com/product/spus?ids=1002321,1000610,1001871,1001859,1001877,1001862,1000637"
+    ],
+    "verification": "官方商城目录与版本选项已核对；独立首发日或首发价未找到可靠历史记录",
+    "related_accessories": [],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "collection_group": "周边",
+    "launch_options": [],
+    "launch_price_note": "",
+    "design_headline": "把无线，做成可以随身佩戴的物件。",
+    "design_highlights": [
+      {
+        "title": "颈挂形态",
+        "text": "把承重与电池从耳塞端移到颈部。"
+      },
+      {
+        "title": "磁吸收纳",
+        "text": "让左右耳塞在不用时相互靠拢。"
+      },
+      {
+        "title": "实体线控",
+        "text": "将常用操作保留在触手可及的位置。"
+      },
+      {
+        "title": "圈铁组合",
+        "text": "以不同发声单元组合组织声音。"
+      },
+      {
+        "title": "USB-C 充电",
+        "text": "让补电动作与常用线材接轨。"
+      }
+    ],
+    "display_accent": "#8b9fa9",
+    "catalog_observation": {
+      "accessed_at": "2026-11-04",
+      "source": "https://shopapi.smartisan.com/product/spus?ids=1002321,1000610,1001871,1001859,1001877,1001862,1000637",
+      "meaning": "商城目录可证明产品名称与所列选项；不以后台创建时间推断首发日期，不以当前标价推断发布价"
+    },
+    "date_label": "首发日期未确证"
+  },
+  {
+    "id": "shop-1001862",
+    "name": "Smartisan 多功能数据线（USB 3.2 Gen 2）",
+    "category": "配件",
+    "era": "大眼星空／新石实验室阶段",
+    "release_date": null,
+    "date_precision": "unknown",
+    "date_status": "独立首发日期待核；不以发布会同期、后台创建或当前上架时间替代",
+    "specs": {
+      "产品类别": "数据线"
+    },
+    "features": "高清投屏，高速传输",
+    "design_reading": "看似普通的线材承担供电、数据与视频链路；带宽标准和实际用途必须分开标示。",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [
+      "灰色"
+    ],
+    "images": [
+      "assets/display/a6277cd5ada4d5e9.webp"
+    ],
+    "image_status": "官方商城图片",
+    "sources": [
+      "https://www.smartisan.com/item/1001862",
+      "https://shopapi.smartisan.com/product/spus?ids=1002321,1000610,1001871,1001859,1001877,1001862,1000637"
+    ],
+    "verification": "官方商城目录与版本选项已核对；独立首发日或首发价未找到可靠历史记录",
+    "related_accessories": [],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "collection_group": "周边",
+    "launch_options": [],
+    "launch_price_note": "",
+    "design_headline": "把每天的连接，也做得讲究。",
+    "design_highlights": [
+      {
+        "title": "连接两端",
+        "text": "在设备与外设之间完成明确任务。"
+      },
+      {
+        "title": "线材物件",
+        "text": "观察长度、接口与收纳的日常关系。"
+      },
+      {
+        "title": "清晰用途",
+        "text": "高清投屏，高速传输"
+      },
+      {
+        "title": "色彩与轮廓",
+        "text": "让普通线材也拥有识别感。"
+      },
+      {
+        "title": "随身连接",
+        "text": "把看似微小的配件放回使用场景。"
+      }
+    ],
+    "display_accent": "#8b9fa9",
+    "catalog_observation": {
+      "accessed_at": "2026-11-04",
+      "source": "https://shopapi.smartisan.com/product/spus?ids=1002321,1000610,1001871,1001859,1001877,1001862,1000637",
+      "meaning": "商城目录可证明产品名称与所列选项；不以后台创建时间推断首发日期，不以当前标价推断发布价"
+    },
+    "date_label": "首发日期未确证"
+  },
+  {
+    "id": "shop-1002321",
+    "name": "Smartisan 真无线蓝牙耳机 Pro",
+    "category": "耳机",
+    "era": "大眼星空／新石实验室阶段",
+    "release_date": null,
+    "date_precision": "unknown",
+    "date_status": "独立首发日期待核；不以发布会同期、后台创建或当前上架时间替代",
+    "specs": {
+      "产品类别": "蓝牙耳机",
+      "功能定位": "通话降噪（官方商品副标题）；不据此认定支持主动降噪"
+    },
+    "features": "通话降噪 全新升级",
+    "design_reading": "以独立官方条目记录后期音频产品延续；通话降噪的商品描述不等同于 Buds 主动降噪能力。",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [
+      "白色"
+    ],
+    "images": [
+      "assets/display/b1c032a1be6419ab.webp"
+    ],
+    "image_status": "官方商城图片",
+    "sources": [
+      "https://www.smartisan.com/item/1002321",
+      "https://shopapi.smartisan.com/product/spus?ids=1002321,1000610,1001871,1001859,1001877,1001862,1000637"
+    ],
+    "verification": "官方商城目录与版本选项已核对；独立首发日或首发价未找到可靠历史记录",
+    "related_accessories": [],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "collection_group": "周边",
+    "launch_options": [],
+    "launch_price_note": "",
+    "design_headline": "让通话，也成为无线聆听的重点。",
+    "design_highlights": [
+      {
+        "title": "真无线形态",
+        "text": "耳机与收纳盒形成完整组合。"
+      },
+      {
+        "title": "通话降噪",
+        "text": "官方商品描述强调通话体验的升级。"
+      },
+      {
+        "title": "充电收纳盒",
+        "text": "让随身携带与补电保持一体。"
+      },
+      {
+        "title": "白色外观",
+        "text": "用统一色彩保持简洁轮廓。"
+      },
+      {
+        "title": "独立 Pro 条目",
+        "text": "与发布会上公布的 Buds 分开保存。"
+      }
+    ],
+    "display_accent": "#8b9fa9",
+    "catalog_observation": {
+      "accessed_at": "2026-11-04",
+      "source": "https://shopapi.smartisan.com/product/spus?ids=1002321,1000610,1001871,1001859,1001877,1001862,1000637",
+      "meaning": "商城目录可证明产品名称与所列选项；不以后台创建时间推断首发日期，不以当前标价推断发布价"
+    },
+    "date_label": "首发日期未确证"
+  },
+  {
+    "id": "shop-1001853",
+    "name": "坚果 R2 足迹系列保护套 正电子的发现者出生",
+    "category": "足迹",
+    "era": "大眼星空／新石实验室阶段",
+    "release_date": null,
+    "date_precision": "unknown",
+    "date_status": "独立首发日期待核；不以发布会同期、后台创建或当前上架时间替代",
+    "specs": {
+      "产品类别": "手机壳"
+    },
+    "features": "为了那些改变人类足迹的进程",
+    "design_reading": "从产品造型、包装与使用场景观察 Smartisan 的设计延伸。",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [
+      {
+        "sku_id": "100185301",
+        "options": [
+          "正电子的发现者出生"
+        ]
+      }
+    ],
+    "images": [
+      "assets/display/ab7676c4516fa02d.webp"
+    ],
+    "image_status": "官方商城图片",
+    "sources": [
+      "https://www.smartisan.com/item/1001853"
+    ],
+    "verification": "官方目录与图片已核验；历史首发日及规格待补",
+    "related_accessories": [],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "collection_group": "周边",
+    "launch_options": [],
+    "launch_price_note": "",
+    "design_headline": "让日常物件，成为一段历史的入口。",
+    "design_highlights": [
+      {
+        "title": "足迹主题",
+        "text": "把人类历史中的人物与事件带到保护套上。"
+      },
+      {
+        "title": "图案叙事",
+        "text": "通过颜色、文字与图形压缩一段故事。"
+      },
+      {
+        "title": "贴身携带",
+        "text": "让历史记忆进入日常使用的物件。"
+      },
+      {
+        "title": "型号适配",
+        "text": "为对应手机外形安排开孔与边界。"
+      },
+      {
+        "title": "系列表达",
+        "text": "同一载体承载不同的纪念主题。"
+      }
+    ],
+    "display_accent": "#8b9fa9",
+    "date_label": "首发日期未确证"
+  },
+  {
+    "id": "shop-1000613",
+    "name": "足迹保护套 克里斯蒂安·多普勒出生 for iPhone 11",
+    "category": "足迹",
+    "era": "大眼星空／新石实验室阶段",
+    "release_date": null,
+    "date_precision": "unknown",
+    "date_status": "独立首发日期待核；不以发布会同期、后台创建或当前上架时间替代",
+    "specs": {
+      "产品类别": "手机壳"
+    },
+    "features": "公益宝贝",
+    "design_reading": "从产品造型、包装与使用场景观察 Smartisan 的设计延伸。",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [
+      {
+        "sku_id": "100061301",
+        "options": [
+          "克里斯蒂安·多普勒出生 for iPhone 11"
+        ]
+      }
+    ],
+    "images": [
+      "assets/display/f13b0050d0a4fa1b.webp"
+    ],
+    "image_status": "官方商城图片",
+    "sources": [
+      "https://www.smartisan.com/item/1000613"
+    ],
+    "verification": "官方目录与图片已核验；历史首发日及规格待补",
+    "related_accessories": [],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "collection_group": "周边",
+    "launch_options": [],
+    "launch_price_note": "",
+    "design_headline": "让日常物件，成为一段历史的入口。",
+    "design_highlights": [
+      {
+        "title": "足迹主题",
+        "text": "把人类历史中的人物与事件带到保护套上。"
+      },
+      {
+        "title": "图案叙事",
+        "text": "通过颜色、文字与图形压缩一段故事。"
+      },
+      {
+        "title": "贴身携带",
+        "text": "让历史记忆进入日常使用的物件。"
+      },
+      {
+        "title": "型号适配",
+        "text": "为对应手机外形安排开孔与边界。"
+      },
+      {
+        "title": "系列表达",
+        "text": "同一载体承载不同的纪念主题。"
+      }
+    ],
+    "display_accent": "#8b9fa9",
+    "date_label": "首发日期未确证"
+  },
+  {
+    "id": "shop-1000615",
+    "name": "足迹保护套 莱卡成为第一只进入地球轨道的动物 for iPhone 11",
+    "category": "足迹",
+    "era": "大眼星空／新石实验室阶段",
+    "release_date": null,
+    "date_precision": "unknown",
+    "date_status": "独立首发日期待核；不以发布会同期、后台创建或当前上架时间替代",
+    "specs": {
+      "产品类别": "手机壳"
+    },
+    "features": "公益宝贝",
+    "design_reading": "从产品造型、包装与使用场景观察 Smartisan 的设计延伸。",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [
+      {
+        "sku_id": "100061501",
+        "options": [
+          "官方标配"
+        ]
+      }
+    ],
+    "images": [
+      "assets/display/04764d8f9299939c.webp"
+    ],
+    "image_status": "官方商城图片",
+    "sources": [
+      "https://www.smartisan.com/item/1000615"
+    ],
+    "verification": "官方目录与图片已核验；历史首发日及规格待补",
+    "related_accessories": [],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "collection_group": "周边",
+    "launch_options": [],
+    "launch_price_note": "",
+    "design_headline": "让日常物件，成为一段历史的入口。",
+    "design_highlights": [
+      {
+        "title": "足迹主题",
+        "text": "把人类历史中的人物与事件带到保护套上。"
+      },
+      {
+        "title": "图案叙事",
+        "text": "通过颜色、文字与图形压缩一段故事。"
+      },
+      {
+        "title": "贴身携带",
+        "text": "让历史记忆进入日常使用的物件。"
+      },
+      {
+        "title": "型号适配",
+        "text": "为对应手机外形安排开孔与边界。"
+      },
+      {
+        "title": "系列表达",
+        "text": "同一载体承载不同的纪念主题。"
+      }
+    ],
+    "display_accent": "#8b9fa9",
+    "date_label": "首发日期未确证"
+  },
+  {
+    "id": "shop-1001856",
+    "name": "坚果 R2 足迹系列保护套 联合国通过《儿童权利宣言》",
+    "category": "足迹",
+    "era": "大眼星空／新石实验室阶段",
+    "release_date": null,
+    "date_precision": "unknown",
+    "date_status": "独立首发日期待核；不以发布会同期、后台创建或当前上架时间替代",
+    "specs": {
+      "产品类别": "手机壳"
+    },
+    "features": "为了那些改变人类足迹的进程",
+    "design_reading": "从产品造型、包装与使用场景观察 Smartisan 的设计延伸。",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [
+      {
+        "sku_id": "100185601",
+        "options": [
+          "联合国通过《儿童权利宣言》"
+        ]
+      }
+    ],
+    "images": [
+      "assets/display/33f14c95259bed83.webp"
+    ],
+    "image_status": "官方商城图片",
+    "sources": [
+      "https://www.smartisan.com/item/1001856"
+    ],
+    "verification": "官方目录与图片已核验；历史首发日及规格待补",
+    "related_accessories": [],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "collection_group": "周边",
+    "launch_options": [],
+    "launch_price_note": "",
+    "design_headline": "让日常物件，成为一段历史的入口。",
+    "design_highlights": [
+      {
+        "title": "足迹主题",
+        "text": "把人类历史中的人物与事件带到保护套上。"
+      },
+      {
+        "title": "图案叙事",
+        "text": "通过颜色、文字与图形压缩一段故事。"
+      },
+      {
+        "title": "贴身携带",
+        "text": "让历史记忆进入日常使用的物件。"
+      },
+      {
+        "title": "型号适配",
+        "text": "为对应手机外形安排开孔与边界。"
+      },
+      {
+        "title": "系列表达",
+        "text": "同一载体承载不同的纪念主题。"
+      }
+    ],
+    "display_accent": "#8b9fa9",
+    "date_label": "首发日期未确证"
+  },
+  {
+    "id": "shop-1000611",
+    "name": "足迹保护套 人类首次公开使用乙醚 for iPhone 11",
+    "category": "足迹",
+    "era": "大眼星空／新石实验室阶段",
+    "release_date": null,
+    "date_precision": "unknown",
+    "date_status": "独立首发日期待核；不以发布会同期、后台创建或当前上架时间替代",
+    "specs": {
+      "产品类别": "手机壳"
+    },
+    "features": "公益宝贝",
+    "design_reading": "从产品造型、包装与使用场景观察 Smartisan 的设计延伸。",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [
+      {
+        "sku_id": "100061101",
+        "options": [
+          "人类首次公开使用乙醚 for iPhone 11"
+        ]
+      }
+    ],
+    "images": [
+      "assets/display/ebe4181a6a9f5071.webp"
+    ],
+    "image_status": "官方商城图片",
+    "sources": [
+      "https://www.smartisan.com/item/1000611"
+    ],
+    "verification": "官方目录与图片已核验；历史首发日及规格待补",
+    "related_accessories": [],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "collection_group": "周边",
+    "launch_options": [],
+    "launch_price_note": "",
+    "design_headline": "让日常物件，成为一段历史的入口。",
+    "design_highlights": [
+      {
+        "title": "足迹主题",
+        "text": "把人类历史中的人物与事件带到保护套上。"
+      },
+      {
+        "title": "图案叙事",
+        "text": "通过颜色、文字与图形压缩一段故事。"
+      },
+      {
+        "title": "贴身携带",
+        "text": "让历史记忆进入日常使用的物件。"
+      },
+      {
+        "title": "型号适配",
+        "text": "为对应手机外形安排开孔与边界。"
+      },
+      {
+        "title": "系列表达",
+        "text": "同一载体承载不同的纪念主题。"
+      }
+    ],
+    "display_accent": "#8b9fa9",
+    "date_label": "首发日期未确证"
+  },
+  {
+    "id": "shop-1000637",
+    "name": "Smartisan 真无线TWS蓝牙耳机",
+    "category": "耳机",
+    "era": "大眼星空／新石实验室阶段",
+    "release_date": null,
+    "date_precision": "unknown",
+    "date_status": "独立首发日期待核；不以发布会同期、后台创建或当前上架时间替代",
+    "specs": {
+      "产品类别": "蓝牙耳机"
+    },
+    "features": "智能配对 开盖即连",
+    "design_reading": "由有线线控转向充电盒与左右耳的组合，改变携带、连接与补能的动作。",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [
+      "白色"
+    ],
+    "images": [
+      "assets/display/644fa90cb525c3ee.webp"
+    ],
+    "image_status": "官方商城图片",
+    "sources": [
+      "https://www.smartisan.com/item/1000637",
+      "https://shopapi.smartisan.com/product/spus?ids=1002321,1000610,1001871,1001859,1001877,1001862,1000637"
+    ],
+    "verification": "官方商城目录与版本选项已核对；独立首发日或首发价未找到可靠历史记录",
+    "related_accessories": [],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "collection_group": "周边",
+    "launch_options": [],
+    "launch_price_note": "",
+    "design_headline": "从一根线，变成一只随身小盒。",
+    "design_highlights": [
+      {
+        "title": "真无线",
+        "text": "以左右独立耳机替代连接线。"
+      },
+      {
+        "title": "充电盒",
+        "text": "把收纳与补电放在同一物件中。"
+      },
+      {
+        "title": "开盖即连",
+        "text": "减少开始聆听前的操作。"
+      },
+      {
+        "title": "半入耳形态",
+        "text": "以开放的佩戴轮廓贴近日常使用。"
+      },
+      {
+        "title": "圆润外壳",
+        "text": "让小尺寸物件具有温和的握持感。"
+      }
+    ],
+    "display_accent": "#8b9fa9",
+    "catalog_observation": {
+      "accessed_at": "2026-11-04",
+      "source": "https://shopapi.smartisan.com/product/spus?ids=1002321,1000610,1001871,1001859,1001877,1001862,1000637",
+      "meaning": "商城目录可证明产品名称与所列选项；不以后台创建时间推断首发日期，不以当前标价推断发布价"
+    },
+    "date_label": "首发日期未确证"
+  },
+  {
+    "id": "u1-backs",
+    "name": "坚果手机多彩背壳",
+    "category": "配件",
+    "era": "锤子科技阶段",
+    "release_date": "2015-08-25",
+    "date_precision": "day",
+    "date_status": "与坚果手机同期公开，独立开售日不单列",
+    "specs": {
+      "配色": "红、橙、黄、绿、青、蓝、紫",
+      "互动": "换上彩色背板后，系统自动匹配主题"
+    },
+    "features": "可更换的多彩后盖",
+    "design_reading": "把颜色选择变成用户可以拆换的动作，让低成本背壳承载个人表达。",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [],
+    "images": [
+      "assets/display/48410ac146bc2321.webp",
+      "assets/display/02f3b64ff04f015a.webp",
+      "assets/display/b9cbc8acb036cade.webp",
+      "assets/display/53853451e5d650a5.webp",
+      "assets/display/629aa649ceb37f65.webp",
+      "assets/display/4efef87e05cea33f.webp"
+    ],
+    "image_status": "官方媒体中心图片",
+    "sources": [
+      "https://www.smartisan.com/pr/#/pictures",
+      "https://www.smartisan.com/pr/data/year/2015/2015082501.json"
+    ],
+    "verification": "官方发布稿明确列出七色背板与主题联动，未列独立配件价格",
+    "related_accessories": [],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "collection_group": "周边",
+    "launch_options": [],
+    "launch_price_note": "",
+    "design_headline": "亲手换一种颜色。",
+    "design_highlights": [
+      {
+        "title": "可更换后盖",
+        "text": "让外观选择成为可重复的动作。"
+      },
+      {
+        "title": "多彩表达",
+        "text": "让同一部手机拥有不同表情。"
+      },
+      {
+        "title": "细长轮廓",
+        "text": "与 U1 的机身比例保持一致。"
+      },
+      {
+        "title": "轻量改造",
+        "text": "更换背壳即可改变视觉感受。"
+      },
+      {
+        "title": "日常参与",
+        "text": "使用者也能参与物件的外观设计。"
+      }
+    ],
+    "display_accent": "#8b9fa9",
+    "release_date_source": "https://www.smartisan.com/pr/data/year/2015/2015082501.json"
+  },
+  {
+    "id": "u1-cases",
+    "name": "坚果手机保护套",
+    "category": "配件",
+    "era": "官方媒体影像档案",
+    "release_date": null,
+    "date_precision": "unknown",
+    "date_status": "待核实",
+    "specs": {},
+    "features": "官方早期保护套系列",
+    "design_reading": "官方早期保护套系列",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [],
+    "images": [
+      "assets/display/bec73321c37f1c77.webp",
+      "assets/display/b36a13eff4873d3a.webp",
+      "assets/display/543ff5d981c2b47c.webp",
+      "assets/display/f7ad34856f790290.webp",
+      "assets/display/03edc6b388f4ca1d.webp",
+      "assets/display/5f92cc38b15e672b.webp"
+    ],
+    "image_status": "官方媒体中心图片",
+    "sources": [
+      "https://www.smartisan.com/pr/#/pictures"
+    ],
+    "verification": "图片来源已核；历史日期、型号与上市状态分项补证",
+    "related_accessories": [],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "collection_group": "周边",
+    "launch_options": [],
+    "launch_price_note": "",
+    "design_headline": "让保护，沿着手机的轮廓展开。",
+    "design_highlights": [
+      {
+        "title": "机身适配",
+        "text": "围绕 U1 外形安排边缘。"
+      },
+      {
+        "title": "彩色外观",
+        "text": "把保护物件也纳入色彩体系。"
+      },
+      {
+        "title": "接口开孔",
+        "text": "为日常操作保留必要入口。"
+      },
+      {
+        "title": "随身保护",
+        "text": "回应手机日常携带的需要。"
+      },
+      {
+        "title": "简洁表面",
+        "text": "让保护套与手机的视觉语言相接。"
+      }
+    ],
+    "display_accent": "#8b9fa9",
+    "date_label": "首发日期未确证"
+  },
+  {
+    "id": "u1-indie-package",
+    "name": "坚果手机文艺青年版包装",
+    "category": "包装",
+    "era": "锤子科技阶段",
+    "release_date": null,
+    "date_precision": "unknown",
+    "date_status": "包装影像不单列商品发布日期",
+    "specs": {
+      "档案类型": "包装设计影像，不作为独立在售产品计数"
+    },
+    "features": "包装本身作为设计史藏品",
+    "design_reading": "包装本身作为设计史藏品",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [],
+    "images": [
+      "assets/display/2a0513171582d89d.webp",
+      "assets/display/c0bc7d61eac9d910.webp",
+      "assets/display/f0c66c943418709b.webp",
+      "assets/display/e018f7bfa5d57ee0.webp",
+      "assets/display/aad01cf360c68a8d.webp",
+      "assets/display/a47406b012142cf8.webp"
+    ],
+    "image_status": "官方媒体中心图片",
+    "sources": [
+      "https://www.smartisan.com/pr/#/pictures"
+    ],
+    "verification": "图片来源已核；历史日期、型号与上市状态分项补证",
+    "related_accessories": [],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "collection_group": "周边",
+    "launch_options": [],
+    "launch_price_note": "",
+    "design_headline": "从打开盒子开始，感受物件的秩序。",
+    "design_highlights": [
+      {
+        "title": "开箱顺序",
+        "text": "通过层次安排建立与产品相遇的节奏。"
+      },
+      {
+        "title": "留白",
+        "text": "让包装表面保持克制。"
+      },
+      {
+        "title": "产品尺度",
+        "text": "用贴合物件的内部空间组织收纳。"
+      },
+      {
+        "title": "视觉一致",
+        "text": "让盒子与产品属于同一套语言。"
+      },
+      {
+        "title": "纸质触感",
+        "text": "把视觉表达延伸到真实触摸。"
+      }
+    ],
+    "display_accent": "#8b9fa9",
+    "date_kind": "not-applicable",
+    "date_label": "包装档案"
+  },
+  {
+    "id": "m1-package",
+    "name": "M1／M1L 包装",
+    "category": "包装",
+    "era": "锤子科技阶段",
+    "release_date": null,
+    "date_precision": "unknown",
+    "date_status": "包装影像不单列商品发布日期",
+    "specs": {
+      "档案类型": "包装设计影像，不作为独立在售产品计数"
+    },
+    "features": "配合手机展示开箱顺序与材质细节",
+    "design_reading": "配合手机展示开箱顺序与材质细节",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [],
+    "images": [
+      "assets/display/f11222201efcd007.webp",
+      "assets/display/21dffab7a14fac01.webp",
+      "assets/display/04e1a3b67b94e9cf.webp"
+    ],
+    "image_status": "官方媒体中心图片",
+    "sources": [
+      "https://www.smartisan.com/pr/#/pictures"
+    ],
+    "verification": "图片来源已核；历史日期、型号与上市状态分项补证",
+    "related_accessories": [],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "collection_group": "周边",
+    "launch_options": [],
+    "launch_price_note": "",
+    "design_headline": "从打开盒子开始，感受物件的秩序。",
+    "design_highlights": [
+      {
+        "title": "开箱顺序",
+        "text": "通过层次安排建立与产品相遇的节奏。"
+      },
+      {
+        "title": "留白",
+        "text": "让包装表面保持克制。"
+      },
+      {
+        "title": "产品尺度",
+        "text": "用贴合物件的内部空间组织收纳。"
+      },
+      {
+        "title": "视觉一致",
+        "text": "让盒子与产品属于同一套语言。"
+      },
+      {
+        "title": "纸质触感",
+        "text": "把视觉表达延伸到真实触摸。"
+      }
+    ],
+    "display_accent": "#8b9fa9",
+    "date_kind": "not-applicable",
+    "date_label": "包装档案"
+  },
+  {
+    "id": "u1-package",
+    "name": "坚果手机包装",
+    "category": "包装",
+    "era": "锤子科技阶段",
+    "release_date": null,
+    "date_precision": "unknown",
+    "date_status": "包装影像不单列商品发布日期",
+    "specs": {
+      "档案类型": "包装设计影像，不作为独立在售产品计数"
+    },
+    "features": "标准版包装档案",
+    "design_reading": "标准版包装档案",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [],
+    "images": [
+      "assets/display/bf800516b08a7174.webp"
+    ],
+    "image_status": "官方媒体中心图片",
+    "sources": [
+      "https://www.smartisan.com/pr/#/pictures"
+    ],
+    "verification": "图片来源已核；历史日期、型号与上市状态分项补证",
+    "related_accessories": [],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "collection_group": "周边",
+    "launch_options": [],
+    "launch_price_note": "",
+    "design_headline": "从打开盒子开始，感受物件的秩序。",
+    "design_highlights": [
+      {
+        "title": "开箱顺序",
+        "text": "通过层次安排建立与产品相遇的节奏。"
+      },
+      {
+        "title": "留白",
+        "text": "让包装表面保持克制。"
+      },
+      {
+        "title": "产品尺度",
+        "text": "用贴合物件的内部空间组织收纳。"
+      },
+      {
+        "title": "视觉一致",
+        "text": "让盒子与产品属于同一套语言。"
+      },
+      {
+        "title": "纸质触感",
+        "text": "把视觉表达延伸到真实触摸。"
+      }
+    ],
+    "display_accent": "#8b9fa9",
+    "date_kind": "not-applicable",
+    "date_label": "包装档案"
+  },
+  {
+    "id": "u1-charger",
+    "name": "坚果手机充电器",
+    "category": "配件",
+    "era": "官方媒体影像档案",
+    "release_date": null,
+    "date_precision": "unknown",
+    "date_status": "待核实",
+    "specs": {},
+    "features": "官方媒体图中的充电器；功率与型号待铭牌核实",
+    "design_reading": "官方媒体图中的充电器；功率与型号待铭牌核实",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [],
+    "images": [
+      "assets/display/bed401e672390564.webp"
+    ],
+    "image_status": "官方媒体中心图片",
+    "sources": [
+      "https://www.smartisan.com/pr/#/pictures"
+    ],
+    "verification": "图片来源已核；历史日期、型号与上市状态分项补证",
+    "related_accessories": [],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "collection_group": "周边",
+    "launch_options": [],
+    "launch_price_note": "",
+    "design_headline": "从一件小物，读懂日常使用。",
+    "design_highlights": [
+      {
+        "title": "产品物件",
+        "text": "坚果手机充电器"
+      },
+      {
+        "title": "使用线索",
+        "text": "官方媒体图中的充电器；功率与型号待铭牌核实"
+      },
+      {
+        "title": "外形观察",
+        "text": "在图集中观察边缘与表面细节。"
+      },
+      {
+        "title": "设计延伸",
+        "text": "把配件放回它所服务的产品场景。"
+      },
+      {
+        "title": "日常尺度",
+        "text": "关注它如何被携带、放置和使用。"
+      }
+    ],
+    "display_accent": "#8b9fa9",
+    "date_label": "首发日期未确证"
+  },
+  {
+    "id": "u1-hub",
+    "name": "坚果手机配件影像（concentrator）",
+    "category": "配件",
+    "era": "坚果手机媒体档案",
+    "release_date": null,
+    "date_precision": "unknown",
+    "date_status": "待核实",
+    "specs": {},
+    "features": "官网媒体中心原图名为 concentrator；正式商品名称与功能尚未确证",
+    "design_reading": "这组影像保留官方文件命名，不推定其为 USB 集线器或已上市商品。",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [],
+    "images": [
+      "assets/display/9d41c22e5b4bb73a.webp"
+    ],
+    "image_status": "官方媒体中心图片",
+    "sources": [
+      "https://www.smartisan.com/pr/#/pictures"
+    ],
+    "verification": "仅确认官方图组来源，产品身份与销售状态仍缺证",
+    "related_accessories": [],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "collection_group": "周边",
+    "launch_options": [],
+    "launch_price_note": "",
+    "design_headline": "留下一组尚待辨认的官方影像。",
+    "design_highlights": [
+      {
+        "title": "官方图组",
+        "text": "影像来自 Smartisan 官方媒体中心。"
+      },
+      {
+        "title": "原始命名",
+        "text": "保留 concentrator 这一原始文件命名。"
+      },
+      {
+        "title": "身份缺项",
+        "text": "尚未找到足以确认正式商品名的资料。"
+      },
+      {
+        "title": "功能缺项",
+        "text": "不单凭文件名推定接口或实际用途。"
+      },
+      {
+        "title": "影像存档",
+        "text": "作为史料保存，不推定曾独立零售。"
+      }
+    ],
+    "display_accent": "#8b9fa9",
+    "date_label": "配件影像 · 名称未确证",
+    "date_kind": "unidentified"
+  },
+  {
+    "id": "deepsound",
+    "name": "大卫和希瑞智能音箱 D1",
+    "category": "合作生态",
+    "era": "锤子科技阶段",
+    "release_date": "2018-11-06",
+    "date_precision": "day",
+    "date_status": "已核对发布资料",
+    "specs": {
+      "型号": "D1",
+      "扬声器": "双 1.75 英寸全频段单元",
+      "麦克风": "六麦克风阵列",
+      "音频连接": "蓝牙 A2DP / AUX OUT",
+      "外观材质": "镜面不锈钢与织物"
+    },
+    "features": "胶囊轮廓、镜面不锈钢与织物、环形灯带",
+    "design_reading": "官方媒体中心收录；单独标注合作关系，非手机直系配件",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [],
+    "images": [
+      "assets/display/140d8251bf87c296.webp"
+    ],
+    "image_status": "官方媒体中心图片",
+    "sources": [
+      "https://www.smartisan.com/pr/#/pictures",
+      "https://www.smartisan.com/pr/data/year/2018/20181106.json"
+    ],
+    "verification": "发布日期、公布价格与所列参数经官方发布稿核对",
+    "related_accessories": [],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "collection_group": "周边",
+    "launch_options": [
+      {
+        "configuration": "大卫和希瑞智能音箱 D1",
+        "price_cny": 899,
+        "currency": "CNY",
+        "source": "https://www.smartisan.com/pr/data/year/2018/20181106.json"
+      }
+    ],
+    "launch_price_note": "",
+    "design_headline": "让声音，也成为空间里的物件。",
+    "design_highlights": [
+      {
+        "title": "胶囊轮廓",
+        "text": "把闪念胶囊的图形语言延伸为桌面物件。"
+      },
+      {
+        "title": "金属与织物",
+        "text": "镜面不锈钢上罩，与织物包覆的下半部组合。"
+      },
+      {
+        "title": "环形灯带",
+        "text": "以 360 度环形灯带呈现交互反馈。"
+      },
+      {
+        "title": "双单元",
+        "text": "采用两枚 1.75 英寸全频段扬声器。"
+      },
+      {
+        "title": "触碰唤醒",
+        "text": "轻触金属上罩即可激活，实体按键区域除外。"
+      }
+    ],
+    "display_accent": "#8b9fa9",
+    "release_date_source": "https://www.smartisan.com/pr/data/year/2018/20181106.json"
+  },
+  {
+    "id": "air-purifier",
+    "name": "地平线 8 号商务旅行箱·标准版",
+    "category": "合作生态",
+    "era": "锤子科技阶段",
+    "release_date": "2018-11-06",
+    "date_precision": "day",
+    "date_status": "已核对发布资料",
+    "specs": {
+      "箱体材质": "铝镁合金",
+      "收纳容量": "36 L",
+      "锁具": "TSA 密码锁"
+    },
+    "features": "铝镁合金箱体、36 L 收纳空间、超静音万向轮",
+    "design_reading": "在旅行物件中观察工业设计语言的延伸，合作关系待进一步补证。",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [],
+    "images": [
+      "assets/display/fb90d752d4e9e633.webp"
+    ],
+    "image_status": "官方媒体中心图片",
+    "sources": [
+      "https://www.smartisan.com/pr/#/pictures",
+      "https://www.smartisan.com/pr/data/year/2018/20181106.json"
+    ],
+    "verification": "发布日期、公布价格与所列参数经官方发布稿核对",
+    "related_accessories": [],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "collection_group": "周边",
+    "launch_options": [
+      {
+        "configuration": "商务旅行箱标准版 · 银色",
+        "price_cny": 999,
+        "currency": "CNY",
+        "source": "https://www.smartisan.com/pr/data/year/2018/20181106.json"
+      },
+      {
+        "configuration": "商务旅行箱标准版 · 深灰色",
+        "price_cny": 1199,
+        "currency": "CNY",
+        "source": "https://www.smartisan.com/pr/data/year/2018/20181106.json"
+      }
+    ],
+    "launch_price_note": "",
+    "design_headline": "把工业设计，带到下一段旅程。",
+    "design_highlights": [
+      {
+        "title": "箱体轮廓",
+        "text": "用规整体块组织旅行中的随身空间。"
+      },
+      {
+        "title": "伸缩拉杆",
+        "text": "在收纳与拖行之间切换状态。"
+      },
+      {
+        "title": "滚轮结构",
+        "text": "让移动成为旅行物件的核心动作。"
+      },
+      {
+        "title": "合作设计",
+        "text": "保存 DESIGNED BY SMARTISAN 的物件延伸。"
+      },
+      {
+        "title": "日常之外",
+        "text": "把熟悉的简洁气质带到出行场景。"
+      }
+    ],
+    "display_accent": "#8b9fa9",
+    "release_date_source": "https://www.smartisan.com/pr/data/year/2018/20181106.json"
+  },
+  {
+    "id": "air-purifier-pro",
+    "name": "地平线 8 号商务旅行箱·旗舰版",
+    "category": "合作生态",
+    "era": "锤子科技阶段",
+    "release_date": "2018-11-06",
+    "date_precision": "day",
+    "date_status": "已核对发布资料",
+    "specs": {
+      "箱体材质": "铝镁合金",
+      "结构": "金属箱体前开门与独立 TSA 锁",
+      "配套移动电源": "20000 mAh / 18 W（官方公布，可拆卸）"
+    },
+    "features": "金属箱体前开门、可拆卸移动电源与备忘标签",
+    "design_reading": "官方媒体中心 aviatorFlagship 图组",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [],
+    "images": [
+      "assets/display/933a40da0484a825.webp"
+    ],
+    "image_status": "官方媒体中心图片",
+    "sources": [
+      "https://www.smartisan.com/pr/#/pictures",
+      "https://www.smartisan.com/pr/data/year/2018/20181106.json"
+    ],
+    "verification": "发布日期、公布价格与所列参数经官方发布稿核对",
+    "related_accessories": [],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "collection_group": "周边",
+    "launch_options": [
+      {
+        "configuration": "商务旅行箱旗舰版 · 深灰色",
+        "price_cny": 1999,
+        "currency": "CNY",
+        "source": "https://www.smartisan.com/pr/data/year/2018/20181106.json"
+      }
+    ],
+    "launch_price_note": "发布时公布的计划：2019 年 4 月开售；该计划不等于实际交付记录。",
+    "design_headline": "把工业设计，带到下一段旅程。",
+    "design_highlights": [
+      {
+        "title": "箱体轮廓",
+        "text": "用规整体块组织旅行中的随身空间。"
+      },
+      {
+        "title": "伸缩拉杆",
+        "text": "在收纳与拖行之间切换状态。"
+      },
+      {
+        "title": "滚轮结构",
+        "text": "让移动成为旅行物件的核心动作。"
+      },
+      {
+        "title": "合作设计",
+        "text": "保存 DESIGNED BY SMARTISAN 的物件延伸。"
+      },
+      {
+        "title": "日常之外",
+        "text": "把熟悉的简洁气质带到出行场景。"
+      }
+    ],
+    "display_accent": "#8b9fa9",
+    "release_date_source": "https://www.smartisan.com/pr/data/year/2018/20181106.json"
+  },
+  {
+    "id": "level8",
+    "name": "地平线 8 号旅行箱（PC）",
+    "category": "合作生态",
+    "era": "锤子科技阶段",
+    "release_date": "2018-11-06",
+    "date_precision": "day",
+    "date_status": "已核对发布资料",
+    "specs": {
+      "箱体材质": "PC",
+      "收纳容量": "38 L",
+      "锁具": "TSA 密码锁"
+    },
+    "features": "PC 箱体、38 L 收纳空间、TSA 密码锁",
+    "design_reading": "合作产品，限定展示与 Smartisan 有直接资料关联的时期",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [],
+    "images": [
+      "assets/display/bfffe00537f86b6f.webp"
+    ],
+    "image_status": "官方媒体中心图片",
+    "sources": [
+      "https://www.smartisan.com/pr/#/pictures",
+      "https://www.smartisan.com/pr/data/year/2018/20181106.json"
+    ],
+    "verification": "发布日期、公布价格与所列参数经官方发布稿核对",
+    "related_accessories": [],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "collection_group": "周边",
+    "launch_options": [
+      {
+        "configuration": "旅行箱 · 黑色",
+        "price_cny": 299,
+        "currency": "CNY",
+        "source": "https://www.smartisan.com/pr/data/year/2018/20181106.json"
+      },
+      {
+        "configuration": "旅行箱 · 灰色",
+        "price_cny": 299,
+        "currency": "CNY",
+        "source": "https://www.smartisan.com/pr/data/year/2018/20181106.json"
+      }
+    ],
+    "launch_price_note": "",
+    "design_headline": "把工业设计，带到下一段旅程。",
+    "design_highlights": [
+      {
+        "title": "箱体轮廓",
+        "text": "用规整体块组织旅行中的随身空间。"
+      },
+      {
+        "title": "伸缩拉杆",
+        "text": "在收纳与拖行之间切换状态。"
+      },
+      {
+        "title": "滚轮结构",
+        "text": "让移动成为旅行物件的核心动作。"
+      },
+      {
+        "title": "合作设计",
+        "text": "保存 DESIGNED BY SMARTISAN 的物件延伸。"
+      },
+      {
+        "title": "日常之外",
+        "text": "把熟悉的简洁气质带到出行场景。"
+      }
+    ],
+    "display_accent": "#8b9fa9",
+    "release_date_source": "https://www.smartisan.com/pr/data/year/2018/20181106.json"
+  },
+  {
+    "id": "humidifier-desktop",
+    "name": "畅呼吸加湿器·桌面款",
+    "category": "合作生态",
+    "era": "锤子科技阶段",
+    "release_date": "2018-11-06",
+    "date_precision": "day",
+    "date_status": "已核对发布资料",
+    "specs": {
+      "加湿方式": "冷蒸发",
+      "额定加湿量": "400+ mL/h（官方公布）",
+      "水箱容量": "4 L"
+    },
+    "features": "冷蒸发加湿、4 L 水箱、400+ mL/h 公布加湿量",
+    "design_reading": "官方媒体中心 desktop 图组",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [],
+    "images": [
+      "assets/display/89748e1d42abecda.webp"
+    ],
+    "image_status": "官方媒体中心图片",
+    "sources": [
+      "https://www.smartisan.com/pr/#/pictures",
+      "https://www.smartisan.com/pr/data/year/2018/20181106.json"
+    ],
+    "verification": "发布日期、公布价格与所列参数经官方发布稿核对",
+    "related_accessories": [],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "collection_group": "周边",
+    "launch_options": [
+      {
+        "configuration": "桌面式",
+        "price_cny": 999,
+        "currency": "CNY",
+        "source": "https://www.smartisan.com/pr/data/year/2018/20181106.json"
+      }
+    ],
+    "launch_price_note": "发布时公布定价；新闻稿当时未确定具体发售日期。",
+    "design_headline": "让生活电器，安静地融入空间。",
+    "design_highlights": [
+      {
+        "title": "圆柱形态",
+        "text": "以连续曲面建立柔和的物件轮廓。"
+      },
+      {
+        "title": "规则开孔",
+        "text": "用有秩序的孔列处理功能区域。"
+      },
+      {
+        "title": "白色外观",
+        "text": "减轻电器进入室内的视觉负担。"
+      },
+      {
+        "title": "居家场景",
+        "text": "将设计关注从手机带到生活环境。"
+      },
+      {
+        "title": "合作生态",
+        "text": "保存畅呼吸与 Smartisan 的产品关联。"
+      }
+    ],
+    "display_accent": "#8b9fa9",
+    "release_date_source": "https://www.smartisan.com/pr/data/year/2018/20181106.json"
+  },
+  {
+    "id": "humidifier-floor",
+    "name": "畅呼吸加湿器·落地款",
+    "category": "合作生态",
+    "era": "锤子科技阶段",
+    "release_date": "2018-11-06",
+    "date_precision": "day",
+    "date_status": "已核对发布资料",
+    "specs": {
+      "加湿方式": "冷蒸发",
+      "额定加湿量": "1200+ mL/h（官方公布）",
+      "水箱容量": "9 L",
+      "额定功率": "22 W",
+      "睡眠档噪声": "34 dB(A)（官方公布）"
+    },
+    "features": "冷蒸发加湿、9 L 水箱、1200+ mL/h 公布加湿量",
+    "design_reading": "官方媒体中心 ground 图组",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [],
+    "images": [
+      "assets/display/d4fb67dd5c9b6ced.webp"
+    ],
+    "image_status": "官方媒体中心图片",
+    "sources": [
+      "https://www.smartisan.com/pr/#/pictures",
+      "https://www.smartisan.com/pr/data/year/2018/20181106.json"
+    ],
+    "verification": "发布日期、公布价格与所列参数经官方发布稿核对",
+    "related_accessories": [],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "collection_group": "周边",
+    "launch_options": [
+      {
+        "configuration": "智能落地式",
+        "price_cny": 1999,
+        "currency": "CNY",
+        "source": "https://www.smartisan.com/pr/data/year/2018/20181106.json"
+      }
+    ],
+    "launch_price_note": "发布时计划于 2018 年 11 月底发货；发布日期与计划发货日分列。",
+    "design_headline": "让生活电器，安静地融入空间。",
+    "design_highlights": [
+      {
+        "title": "圆柱形态",
+        "text": "以连续曲面建立柔和的物件轮廓。"
+      },
+      {
+        "title": "规则开孔",
+        "text": "用有秩序的孔列处理功能区域。"
+      },
+      {
+        "title": "白色外观",
+        "text": "减轻电器进入室内的视觉负担。"
+      },
+      {
+        "title": "居家场景",
+        "text": "将设计关注从手机带到生活环境。"
+      },
+      {
+        "title": "合作生态",
+        "text": "保存畅呼吸与 Smartisan 的产品关联。"
+      }
+    ],
+    "display_accent": "#8b9fa9",
+    "release_date_source": "https://www.smartisan.com/pr/data/year/2018/20181106.json"
+  },
+  {
+    "id": "smartisan-os",
+    "name": "Smartisan OS 界面档案",
+    "category": "系统",
+    "era": "跨版本系统档案",
+    "release_date": null,
+    "date_precision": "unknown",
+    "date_status": "多版本影像汇编，不适用单一发布日期",
+    "specs": {},
+    "features": "官方界面图片；可操作体验另做网页复现，并标示复现身份",
+    "design_reading": "官方界面图片；可操作体验另做网页复现，并标示复现身份",
+    "design_reading_type": "策展观察，非设计师原话",
+    "variants": [],
+    "images": [
+      "assets/display/e1fc268663ddc22d.webp",
+      "assets/display/7261f8919074d7fe.webp",
+      "assets/display/336459a19615726a.webp",
+      "assets/display/f5b44aea40b6583d.webp",
+      "assets/display/c106c742bad0624b.webp",
+      "assets/display/3af106ebd60dc866.webp"
+    ],
+    "image_status": "官方媒体中心图片",
+    "sources": [
+      "https://www.smartisan.com/pr/#/pictures"
+    ],
+    "verification": "图片来源已核；历史日期、型号与上市状态分项补证",
+    "related_accessories": [],
+    "relationship_note": "同期策展关联，不等同于接口兼容或随盒附送",
+    "collection_group": "档案",
+    "launch_options": [],
+    "launch_price_note": "",
+    "design_headline": "让每一次操作，都有清楚的秩序。",
+    "design_highlights": [
+      {
+        "title": "拟物图标",
+        "text": "让图形与熟悉的物件产生联系。"
+      },
+      {
+        "title": "九宫格",
+        "text": "通过规则边界组织应用入口。"
+      },
+      {
+        "title": "细节反馈",
+        "text": "让界面的状态可以被看见与理解。"
+      },
+      {
+        "title": "一致的质感",
+        "text": "用材质、阴影和层次保持整体感。"
+      },
+      {
+        "title": "效率思考",
+        "text": "在视觉之外继续关注日常操作。"
+      }
+    ],
+    "display_accent": "#8b9fa9",
+    "date_kind": "not-applicable",
+    "date_label": "跨版本界面档案"
+  }
+]

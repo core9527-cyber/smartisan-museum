@@ -1,0 +1,55 @@
+/* Tactile motion: physical depth, a nine-panel reveal, and restrained ambient light. */
+:root{--motion-settle:cubic-bezier(.2,.8,.2,1);--motion-spring:cubic-bezier(.18,1.22,.32,1)}
+button{transition:transform .14s var(--motion-settle),box-shadow .14s,filter .18s}
+button:active{transform:translateY(2px);filter:brightness(.96);box-shadow:inset 0 2px 5px #0003!important}
+.red{border-bottom-width:3px;text-shadow:0 -1px #6b1f1c;box-shadow:inset 0 1px #ffffff50,0 3px 0 #5d2421,0 5px 9px #0003}
+.red:active{transform:translateY(3px);border-bottom-width:1px}
+.hero{perspective:1000px;transition:transform .5s var(--motion-settle),box-shadow .5s}
+.hero img{transition:transform .7s var(--motion-spring)}
+.hero:hover img{transform:translateY(-5px) scale(1.015)}
+.card{perspective:900px;transform-origin:center bottom;transition:transform .4s var(--motion-spring),box-shadow .4s}
+.card img{transition:transform .65s var(--motion-spring)}
+.card:hover{transform:translateY(-6px);box-shadow:0 14px 24px #4939231c,inset 0 1px #fff}
+.card:hover img{transform:translateY(-3px) scale(1.025)}
+.card:active{transform:translateY(-1px) scale(.985)}
+dialog[open]{animation:drawer-open .5s var(--motion-spring) both;transform-origin:50% 65%}
+dialog[open]::backdrop{animation:backdrop-in .3s both}
+#thumbs button{transition:transform .25s var(--motion-spring),border-color .2s,box-shadow .2s}
+#thumbs button:hover{transform:translateY(-3px)}
+#thumbs button[aria-pressed="true"]{border-color:#ac5147;box-shadow:inset 0 0 0 1px #ac5147,0 2px 4px #6a33221a}
+#player{perspective:1800px;isolation:isolate;background:radial-gradient(ellipse at 16% 12%,#70584642,transparent 60%),radial-gradient(ellipse at 93% 85%,#46554b35,transparent 58%),repeating-linear-gradient(0deg,#ffffff02 0 1px,transparent 1px 3px),#242321}
+#player::before{border-color:#e8dbbf1a;box-shadow:inset 0 1px #ffffff04,0 1px #0004}
+#player-stage{perspective:1400px;transform-style:preserve-3d}
+.player-object{transform-origin:50% 65%;border-bottom:3px solid #b0a28c;box-shadow:inset 0 2px 1px #fff,0 2px 0 #b4a68e,0 4px 0 #7a6d58,0 30px 65px #0006,0 5px 10px #0008}
+.player-object-top{box-shadow:0 1px #ffffff80;text-shadow:0 1px #fff9}
+.player-object-top>span:first-child::before{content:"";display:inline-block;width:6px;height:6px;margin-right:9px;border-radius:50%;background:var(--exhibit-accent);box-shadow:inset 0 1px 2px #0004,0 0 7px color-mix(in srgb,var(--exhibit-accent),transparent 65%);vertical-align:1px}
+.player-image-mat{position:relative;perspective:1000px;box-shadow:inset 0 2px 6px #7a64431a,0 1px #fff}
+#player-img{animation:exhibit-breathe 16s ease-in-out infinite;transform-origin:50% 60%}
+.player-photo-ghost{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;background:#fff;z-index:2;pointer-events:none}
+.player-shutters{position:absolute;inset:-1px;display:grid;grid-template-columns:repeat(3,1fr);grid-template-rows:repeat(3,1fr);z-index:3;pointer-events:none;perspective:1000px;gap:1px}
+.player-shutter{opacity:0;border-radius:3px;background:linear-gradient(145deg,#f9f6ef,#d8d0c1);border:1px solid #f9f4e9;box-shadow:inset 0 1px #fff,0 3px 6px #0002;transform-origin:50% 0;backface-visibility:hidden}
+.player-glass-sheen{position:absolute;inset:0;z-index:4;opacity:0;pointer-events:none;background:linear-gradient(110deg,transparent 20%,#fff0 36%,#ffffff24 47%,#ffffff60 50%,#ffffff12 57%,transparent 70%);mix-blend-mode:screen}
+#player-label{perspective:1000px}
+.player-design-rule{transform-origin:left center;box-shadow:0 1px #0004}
+.player-feature{animation:none;transform-origin:center top;transition:border-color .7s,background-color .7s,box-shadow .7s;box-shadow:inset 0 1px #ffffff0a,0 2px 4px #0000000e}
+.feature-number{display:flex;align-items:center;justify-content:center;min-width:27px;height:27px;border-radius:6px;border:1px solid #85725837;background:linear-gradient(#3c3934,#2d2a26);box-shadow:inset 0 1px #ffffff12,0 2px 2px #0003;text-shadow:0 -1px #0008;transition:color .5s,background .5s,box-shadow .5s}
+.player-feature.is-reading{border-color:color-mix(in srgb,var(--exhibit-accent),transparent 45%);background-color:#b99a7610;box-shadow:inset 0 1px #ffffff0c,0 2px 9px #0002}
+.player-feature.is-reading .feature-number{color:#f1ddbe;border-color:#9f715458;background:linear-gradient(#8a5e4c,#5b3a30);box-shadow:inset 0 1px #ffffff30,0 2px 4px #0005}
+.player-feature.signature h3{color:#eee2cc}
+.player-notes-heading>span:first-child{padding:4px 7px;border:1px solid #b7a27c25;border-radius:4px;box-shadow:inset 0 1px #0004,0 1px #ffffff06;background:#1e1d1b60}
+#player-controls{gap:12px;padding:8px 14px;width:max-content;max-width:94vw;left:50%;right:auto;transform:translateX(-50%);border:1px solid #b9a47e26;border-radius:12px;background:linear-gradient(#45413b,#2f2c27);box-shadow:inset 0 1px #ffffff12,0 3px 0 #151411,0 7px 19px #0004}
+#player-controls button{height:37px;min-width:43px;border:1px solid #645b4e;border-bottom:3px solid #171613;background:linear-gradient(#5c564c,#39342d);box-shadow:inset 0 1px #ffffff30,0 2px 3px #0005;text-shadow:0 -1px #0008}
+#player-controls #pause{min-width:59px;border-radius:20px;background:linear-gradient(#a3463c,#773128);border-color:#af5a4c;border-bottom-color:#491f1b;color:#f9e6cf}
+#player-controls button:active{transform:translateY(2px);border-bottom-width:1px}
+#player-controls #player-counter{min-width:42px;text-align:center;font-family:Georgia,serif;font-size:13px;text-shadow:0 -1px #000}
+#player-clock{min-width:36px;font:12px Consolas,monospace;letter-spacing:1px;color:#bca98b;text-shadow:0 -1px #000;white-space:nowrap}
+#player-hint{font-size:9px;white-space:nowrap}
+#progress{bottom:0;height:3px;box-shadow:0 0 8px color-mix(in srgb,var(--exhibit-accent),transparent 30%);transition:width .12s linear}
+#progress::after{content:"";position:absolute;right:-3px;top:-1px;width:5px;height:5px;border-radius:50%;background:#f1c4a2;box-shadow:0 0 8px var(--exhibit-accent)}
+#player.is-paused #player-img{animation-play-state:paused}
+#player.is-paused .player-object-top>span:first-child::before{opacity:.45}
+@keyframes drawer-open{0%{opacity:0;transform:perspective(1100px) translateY(25px) rotateX(4deg) scale(.96)}75%{opacity:1;transform:perspective(1100px) translateY(-2px) rotateX(0) scale(1.002)}100%{opacity:1;transform:none}}
+@keyframes backdrop-in{from{opacity:0}to{opacity:1}}
+@keyframes exhibit-breathe{0%,100%{transform:translateY(0) scale(1)}50%{transform:translateY(-3px) scale(1.007)}}
+@media(max-width:740px){.feature-number{min-width:21px;height:23px;font-size:10px}.player-object{border-bottom-width:2px}#player-controls{gap:6px;padding:6px 9px;max-width:94vw;flex-wrap:wrap}#player-controls button{height:31px;min-width:32px;font-size:10px;padding:4px 8px}#player-controls #pause{min-width:46px}#player-clock{font-size:10px;min-width:30px}#player-counter{min-width:30px!important}#player-hint{width:100%;font-size:8px;margin:1px 0;line-height:1.4}}
+@media(prefers-reduced-motion:reduce){dialog[open],dialog[open]::backdrop,#player-img{animation:none!important}.player-feature,.card,.hero img,.card img,button,#progress{transition:none!important}}
